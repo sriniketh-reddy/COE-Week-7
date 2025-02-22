@@ -1,0 +1,12 @@
+prefix=c:/Users/CVR/Documents/Week-7/venv/Library
+exec_prefix=c:/Users/CVR/Documents/Week-7/venv/Library
+libdir=c:/Users/CVR/Documents/Week-7/venv/Library/lib
+includedir=c:/Users/CVR/Documents/Week-7/venv/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.4
+Libs: -L${libdir} -lzmq
+Libs.private: -lstdc++ 
+Requires.private: 
+Cflags: -I${includedir} 

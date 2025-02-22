@@ -1,0 +1,1501 @@
+ProductID,ProductName,DealerID,DealerLocation,CurrentStock,MinimumStockThreshold,MaximumStockThreshold,LastUpdated,SalesRate,LeadTime
+596,Electric Kettle,D217,East Justin,3155.0,43,901,2024-08-31,25.0,6
+914,Television,D278,Brownchester,279.0,82,703,2024-03-20,,8
+215,Toaster,D800,Carolineview,239.0,70,244,2025-01-26,20.0,37
+712,Iron,D394,Jeffreyfort,430.0,31,558,2024-11-27,28.0,1
+310,Laptop,D544,Carolineview,135.0,22,825,2024-10-01,20.0,2
+492,Mouse,D211,Scottbury,14.0,89,550,2024-04-14,3.0,48
+778,Monitor,D620,Jeffreyfort,258.0,55,924,2024-08-04,25.0,6
+289,Bluetooth Speaker,D260,West Thomasberg,48.0,45,979,2024-02-24,3.0,6
+853,Iron,D842,West Thomasberg,369.0,14,603,2024-05-18,21.0,10
+701,Toaster,D314,Carolineview,372.0,44,775,2025-01-28,7.0,3
+863,Headphones,D942,West Thomasberg,,58,566,2024-04-05,23.0,2
+173,USB Flash Drive,D148,Port Amanda,446.0,56,940,2024-06-22,23.0,9
+180,Electric Kettle,D903,Carolineview,3222.0,42,770,2024-03-27,28.0,5
+468,Coffee Maker,D644,West Thomasberg,178.0,29,644,2024-08-05,,15
+221,Electric Kettle,D482,Jeffreyfort,448.0,84,286,2025-02-03,23.0,3
+342,Gaming Console,D915,West Thomasberg,422.0,17,875,2024-08-23,21.0,9
+317,Fitness Tracker,D154,East Justin,249.0,49,752,2024-04-24,18.0,34
+873,Laptop,D741,Fraziertown,235.0,56,374,2024-02-24,15.0,10
+670,Coffee Maker,D167,North Robinborough,,55,825,2025-02-20,15.0,6
+835,Washing Machine,D969,Scottbury,240.0,21,457,2024-05-03,21.0,1
+555,Microwave,D283,Port Sarah,305.0,61,962,2024-05-18,,9
+692,Smartwatch,D814,West Thomasberg,278.0,65,354,2025-01-02,21.0,13
+228,Drone,D885,Dawsonborough,186.0,73,514,2024-06-11,28.0,6
+718,Projector,D579,Murphyside,,72,835,2024-07-24,27.0,3
+830,Monitor,D747,North Bonnieberg,395.0,73,700,2024-05-23,3.0,6
+702,Washing Machine,D870,East Justin,111.0,10,752,2024-12-31,13.0,12
+245,Bluetooth Speaker,D313,South Timothyfort,454.0,70,567,2024-07-05,28.0,12
+700,Vacuum Cleaner,D256,Scottbury,,58,623,2024-04-13,18.0,5
+615,Laptop,D281,Port Sarah,49.0,42,359,2024-05-10,27.0,14
+500,Vacuum Cleaner,D727,North Bonnieberg,267.0,62,990,2024-06-26,19.0,9
+799,Television,D952,South Timothyfort,,98,202,2025-01-27,18.0,8
+212,Iron,D983,Port Sarah,269.0,91,998,2024-07-19,8.0,1
+515,Fitness Tracker,D419,East Justin,278.0,78,803,2024-08-08,8.0,8
+358,Monitor,D296,West Thomasberg,478.0,52,626,2024-05-23,15.0,1
+249,Keyboard,D949,Murphyside,3249.0,67,828,2024-08-24,24.0,13
+123,Blender,D878,Port Sarah,98.0,80,697,2024-09-11,24.0,5
+824,Smartwatch,D987,West Thomasberg,,65,632,2024-08-04,27.0,8
+392,Router,D381,North Bonnieberg,63.0,62,852,2025-02-13,20.0,13
+464,Projector,D210,West Terrancehaven,86.0,69,426,2024-08-18,3.0,13
+932,Bluetooth Speaker,D289,North Ashley,95.0,93,803,2024-06-28,6.0,13
+663,Projector,D303,South Timothyfort,,49,298,2024-03-28,14.0,50
+401,Fitness Tracker,D523,Fraziertown,340.0,17,450,2024-07-02,18.0,1
+849,Laptop,D499,New Bonnie,,18,824,2024-09-29,15.0,13
+139,Blender,D665,West Terrancehaven,4.0,30,661,2024-12-19,6.0,12
+683,Washing Machine,D434,Scottbury,319.0,32,436,2024-02-25,19.0,9
+290,Gaming Console,D520,Carolineview,14.0,70,555,2024-05-27,19.0,13
+839,Bluetooth Speaker,D736,Brownchester,244.0,40,992,2025-01-31,7.0,2
+114,Coffee Maker,D392,Scottbury,90.0,61,893,2024-04-23,28.0,6
+840,Refrigerator,D497,West Thomasberg,115.0,62,216,2024-05-23,23.0,1
+449,Mouse,D377,Martinezberg,187.0,84,338,2024-07-13,13.0,12
+958,Electric Kettle,D422,Bushside,59.0,28,935,2024-09-03,21.0,9
+495,Monitor,D636,North Robinborough,261.0,24,376,2024-10-16,9.0,8
+696,Keyboard,D731,South Timothyfort,461.0,64,485,2024-05-26,18.0,15
+331,Television,D652,Martinezberg,72.0,35,713,2024-12-25,7.0,9
+764,Air Conditioner,D423,Bushside,371.0,47,905,2025-02-06,25.0,8
+712,Keyboard,D896,Brownchester,256.0,91,257,2024-12-18,3.0,2
+922,USB Flash Drive,D571,Fraziertown,413.0,40,548,2025-02-20,4.0,1
+868,External Hard Drive,D889,Port Sarah,119.0,64,840,2025-01-20,26.0,3
+421,Air Conditioner,D599,Fraziertown,78.0,58,867,2024-11-27,13.0,10
+696,External Hard Drive,D843,Port Christopherton,63.0,68,234,2024-05-18,3.0,2
+587,Mouse,D266,North Ashley,433.0,31,623,2024-10-18,,7
+838,Projector,D906,Fraziertown,269.0,64,410,2024-10-03,9.0,15
+881,Projector,D977,Port Sarah,443.0,83,606,2024-10-11,27.0,13
+502,Monitor,D394,Port Sarah,104.0,31,272,2024-09-12,17.0,5
+956,Refrigerator,D852,Murphyside,294.0,97,804,2024-05-14,30.0,9
+795,Drone,D667,South Timothyfort,283.0,84,962,2024-03-11,8.0,8
+690,Drone,D299,Fraziertown,371.0,80,633,2024-04-25,22.0,12
+520,Electric Kettle,D746,Bushside,183.0,52,531,2024-04-24,3.0,11
+818,Tablet,D362,Carolineview,416.0,92,971,2025-01-13,24.0,11
+956,Laptop,D404,Jeffreyfort,93.0,81,378,2024-11-01,21.0,7
+625,Camera,D844,Martinezberg,494.0,64,982,2024-06-03,5.0,11
+608,Refrigerator,D498,North Ashley,326.0,98,219,2024-12-26,4.0,11
+115,Router,D927,Jeffreyfort,364.0,77,684,2025-01-29,25.0,12
+417,Fitness Tracker,D691,New Bonnie,189.0,79,933,2024-12-14,26.0,5
+539,Refrigerator,D152,Fraziertown,92.0,54,735,2024-09-20,9.0,6
+939,Vacuum Cleaner,D263,South Timothyfort,92.0,62,757,2024-10-03,14.0,3
+464,Gaming Console,D598,Brownchester,173.0,85,852,2024-11-21,8.0,4
+612,Projector,D244,West Thomasberg,292.0,72,993,2024-10-28,12.0,11
+261,Printer,D979,Martinezberg,415.0,51,833,2025-02-03,12.0,14
+567,Smartwatch,D621,East Justin,364.0,62,767,2024-03-15,29.0,11
+237,Television,D767,North Bonnieberg,118.0,97,426,2024-03-26,2.0,8
+894,Printer,D489,Port Amanda,276.0,65,322,2024-09-24,7.0,49
+433,USB Flash Drive,D989,Murphyside,465.0,83,791,2025-01-12,21.0,6
+828,Laptop,D103,Jeffreyfort,438.0,96,729,2024-08-15,4.0,8
+797,Blender,D588,West Thomasberg,51.0,38,240,2024-03-24,1.0,10
+234,Washing Machine,D524,Murphyside,,56,815,2024-06-13,10.0,10
+938,Toaster,D694,Port Sarah,380.0,93,578,2024-06-05,7.0,14
+800,Printer,D259,North Robinborough,32.0,74,332,2025-01-22,30.0,12
+967,Camera,D238,West Thomasberg,226.0,16,726,2024-06-21,16.0,3
+508,Television,D240,Bushside,485.0,42,657,2024-03-10,14.0,1
+248,Projector,D930,Port Amanda,130.0,48,817,2025-01-10,23.0,1
+681,Headphones,D671,Port Amanda,306.0,58,676,2024-10-30,4.0,4
+327,Refrigerator,D207,Dawsonborough,57.0,71,388,2024-10-15,22.0,9
+971,Vacuum Cleaner,D888,Port Christopherton,187.0,42,789,2024-06-20,,31
+317,Vacuum Cleaner,D222,West Thomasberg,446.0,82,239,2024-07-08,17.0,2
+398,Smartwatch,D775,Dawsonborough,30.0,15,534,2024-10-23,7.0,8
+285,Printer,D141,Murphyside,452.0,98,569,2024-10-08,21.0,8
+777,Gaming Console,D289,West Terrancehaven,226.0,69,604,2024-10-08,4.0,14
+708,Refrigerator,D751,Murphyside,390.0,28,683,2024-07-26,23.0,7
+103,Drone,D567,South Timothyfort,3691.0,89,291,2024-09-09,10.0,10
+743,Vacuum Cleaner,D517,Brownchester,275.0,73,967,2024-04-28,7.0,10
+221,Fitness Tracker,D673,Jeffreyfort,416.0,34,210,2024-09-11,4.0,9
+792,Keyboard,D271,Fraziertown,496.0,17,231,2024-06-27,9.0,20
+853,Coffee Maker,D783,Fraziertown,335.0,98,320,2024-09-02,,13
+540,Coffee Maker,D135,North Ashley,500.0,69,364,2024-05-27,25.0,12
+692,Washing Machine,D209,Port Amanda,331.0,74,346,2024-05-31,24.0,39
+280,Toaster,D968,Fraziertown,,40,791,2024-12-29,6.0,11
+572,Microwave,D347,East Justin,275.0,69,596,2024-10-11,3.0,7
+513,Coffee Maker,D667,West Terrancehaven,500.0,93,336,2025-01-23,16.0,15
+345,Bluetooth Speaker,D489,Fraziertown,383.0,19,792,2024-03-19,12.0,15
+931,USB Flash Drive,D295,Port Sarah,286.0,61,212,2024-09-28,19.0,1
+577,Coffee Maker,D651,Martinezberg,,35,250,2024-11-13,23.0,8
+443,Headphones,D607,Bushside,88.0,44,719,2024-06-24,27.0,9
+680,Washing Machine,D766,Dawsonborough,406.0,76,753,2024-08-12,25.0,9
+898,Rice Cooker,D919,Brownchester,338.0,63,615,2024-07-02,7.0,5
+818,Smartphone,D269,North Ashley,,82,227,2024-09-13,29.0,34
+652,Air Conditioner,D740,New Bonnie,427.0,44,523,2024-05-11,4.0,4
+661,Drone,D715,Port Sarah,,34,289,2024-04-17,8.0,47
+292,Smartphone,D243,North Ashley,197.0,96,293,2024-04-12,,9
+816,Headphones,D719,North Robinborough,125.0,18,821,2024-12-16,9.0,6
+987,Camera,D176,Bushside,369.0,22,698,2025-01-06,,11
+606,Air Conditioner,D862,Port Christopherton,1877.0,40,849,2024-07-09,12.0,8
+933,Washing Machine,D865,Martinezberg,175.0,57,490,2024-07-13,25.0,8
+194,Television,D577,North Ashley,59.0,36,605,2024-11-26,15.0,12
+360,Fitness Tracker,D441,Carolineview,33.0,90,422,2024-07-27,27.0,50
+124,Refrigerator,D611,Fraziertown,304.0,27,264,2024-05-25,21.0,11
+115,Blender,D566,North Robinborough,376.0,99,575,2025-01-27,26.0,4
+166,Vacuum Cleaner,D548,Brownchester,444.0,64,676,2024-03-19,7.0,12
+160,Blender,D474,Carolineview,344.0,14,698,2024-11-17,18.0,1
+224,Keyboard,D913,North Ashley,314.0,93,392,2024-07-17,25.0,5
+613,Headphones,D691,West Thomasberg,211.0,14,986,2024-04-15,18.0,11
+404,Iron,D206,North Ashley,244.0,89,325,2024-11-30,20.0,2
+197,External Hard Drive,D750,Port Amanda,65.0,27,305,2024-06-14,28.0,5
+600,Monitor,D396,Murphyside,307.0,30,449,2024-11-06,21.0,15
+961,Headphones,D317,North Robinborough,166.0,73,401,2024-09-20,11.0,14
+662,Camera,D420,Dawsonborough,412.0,64,559,2025-01-16,,2
+426,Smartwatch,D685,West Terrancehaven,284.0,80,480,2024-08-28,10.0,21
+284,Mouse,D245,North Robinborough,7.0,85,396,2024-02-29,8.0,14
+172,Camera,D826,Port Sarah,47.0,53,545,2024-08-18,,5
+335,Keyboard,D782,Bushside,393.0,50,810,2024-06-30,21.0,1
+282,Router,D904,New Bonnie,472.0,12,674,2024-02-27,,2
+263,Rice Cooker,D937,Fraziertown,488.0,88,505,2024-10-25,11.0,11
+805,Camera,D772,West Thomasberg,,63,929,2024-10-25,20.0,6
+396,Electric Kettle,D622,Martinezberg,184.0,50,324,2024-05-15,5.0,6
+498,Laptop,D642,East Justin,498.0,97,622,2024-12-29,21.0,13
+507,Washing Machine,D419,Murphyside,404.0,54,269,2024-05-31,22.0,1
+303,Mouse,D523,Carolineview,181.0,77,591,2024-07-02,21.0,11
+377,Air Conditioner,D716,Fraziertown,59.0,86,295,2024-12-11,21.0,3
+701,Keyboard,D927,West Terrancehaven,258.0,80,416,2024-07-31,22.0,3
+826,Fitness Tracker,D988,Dawsonborough,105.0,23,969,2024-03-05,,12
+353,Blender,D356,Scottbury,43.0,29,644,2024-02-22,18.0,5
+912,Camera,D611,Fraziertown,209.0,64,401,2024-09-23,1.0,13
+475,Router,D107,Carolineview,460.0,60,886,2025-01-31,,6
+378,USB Flash Drive,D963,East Justin,,82,417,2024-10-03,11.0,13
+123,Television,D317,West Thomasberg,369.0,59,630,2024-04-19,2.0,14
+768,Tablet,D917,West Terrancehaven,298.0,62,500,2024-07-03,8.0,24
+163,Vacuum Cleaner,D105,Carolineview,34.0,56,903,2024-11-11,7.0,5
+225,Printer,D384,West Thomasberg,99.0,75,846,2025-02-16,30.0,14
+404,Router,D825,Fraziertown,,31,390,2025-01-17,,15
+437,Washing Machine,D534,Fraziertown,3624.0,35,923,2024-07-16,,11
+333,Mouse,D174,Carolineview,79.0,12,605,2024-10-06,,2
+591,Toaster,D690,Martinezberg,357.0,74,587,2024-10-11,20.0,25
+158,Projector,D260,Bushside,76.0,55,580,2024-11-18,20.0,8
+715,Monitor,D440,New Bonnie,463.0,85,482,2024-06-22,2.0,2
+932,Printer,D318,South Timothyfort,400.0,83,363,2024-03-14,4.0,10
+917,Headphones,D198,Dawsonborough,277.0,93,311,2024-11-25,14.0,5
+347,Smartwatch,D302,Dawsonborough,,64,541,2024-07-15,11.0,10
+390,Iron,D294,Port Amanda,172.0,42,411,2024-09-08,27.0,4
+427,Rice Cooker,D828,North Robinborough,257.0,84,867,2024-12-30,19.0,11
+289,Monitor,D532,Martinezberg,33.0,96,711,2024-10-11,21.0,15
+275,Microwave,D462,Dawsonborough,390.0,16,850,2024-10-06,18.0,2
+906,Vacuum Cleaner,D913,North Bonnieberg,206.0,76,403,2024-06-23,8.0,13
+272,Bluetooth Speaker,D843,Martinezberg,296.0,46,984,2024-03-29,25.0,7
+527,Drone,D866,Jeffreyfort,327.0,91,342,2024-12-08,23.0,39
+324,Router,D537,West Terrancehaven,177.0,39,711,2024-06-12,,4
+604,Iron,D102,Port Christopherton,180.0,78,789,2024-11-14,12.0,8
+852,Smartwatch,D300,North Bonnieberg,,25,254,2024-03-27,7.0,12
+272,Iron,D953,Port Christopherton,435.0,48,934,2024-12-17,12.0,12
+526,Electric Kettle,D497,Bushside,4424.0,79,986,2024-10-29,21.0,3
+465,Electric Kettle,D311,Dawsonborough,453.0,29,994,2024-04-12,22.0,14
+318,Blender,D220,Martinezberg,77.0,89,975,2024-04-22,22.0,9
+419,Router,D906,Brownchester,,10,211,2024-11-20,9.0,5
+593,Laptop,D565,Fraziertown,340.0,40,436,2024-11-17,15.0,4
+982,Washing Machine,D986,Port Christopherton,90.0,73,559,2024-10-10,5.0,6
+951,Coffee Maker,D217,Port Christopherton,,42,372,2024-08-30,18.0,5
+402,Iron,D359,Carolineview,152.0,47,311,2024-08-16,10.0,5
+286,Smartphone,D200,Jeffreyfort,108.0,22,291,2024-11-19,15.0,12
+797,Microwave,D871,Port Sarah,417.0,23,251,2024-08-04,30.0,1
+432,Iron,D320,Jeffreyfort,375.0,27,573,2024-11-06,28.0,13
+300,USB Flash Drive,D709,West Terrancehaven,454.0,22,621,2025-01-31,9.0,1
+978,Headphones,D451,Scottbury,51.0,39,943,2025-01-29,3.0,33
+695,Fitness Tracker,D209,Brownchester,423.0,95,930,2025-02-14,27.0,5
+988,Washing Machine,D442,North Robinborough,4973.0,95,998,2024-07-07,19.0,14
+215,Blender,D225,West Thomasberg,165.0,72,311,2024-11-27,29.0,15
+776,Toaster,D458,Port Sarah,,58,532,2024-08-20,28.0,8
+996,Smartwatch,D886,West Terrancehaven,474.0,35,201,2024-10-24,18.0,13
+921,Camera,D604,North Ashley,67.0,35,854,2024-12-11,10.0,5
+535,Projector,D295,Dawsonborough,66.0,66,348,2024-12-29,5.0,2
+852,Tablet,D859,Fraziertown,354.0,88,791,2024-12-02,21.0,20
+556,Camera,D460,Carolineview,118.0,10,263,2024-12-01,17.0,14
+875,Mouse,D189,Jeffreyfort,340.0,91,677,2025-01-28,25.0,9
+566,Headphones,D623,West Thomasberg,419.0,19,379,2024-09-24,23.0,2
+300,Drone,D967,New Bonnie,,14,340,2024-07-29,16.0,15
+110,Monitor,D972,North Robinborough,26.0,24,962,2024-04-16,5.0,13
+530,Refrigerator,D530,New Bonnie,403.0,98,235,2024-07-11,17.0,9
+575,Refrigerator,D664,Bushside,,23,684,2024-08-01,6.0,7
+577,Mouse,D807,South Timothyfort,424.0,76,627,2024-09-13,5.0,1
+551,Toaster,D648,West Thomasberg,269.0,50,631,2024-02-26,26.0,13
+898,Smartphone,D732,Fraziertown,333.0,84,229,2025-01-06,20.0,6
+262,Drone,D344,West Terrancehaven,376.0,22,813,2024-04-22,24.0,6
+756,Gaming Console,D854,Brownchester,88.0,84,976,2024-12-11,25.0,15
+507,Washing Machine,D589,New Bonnie,231.0,66,227,2025-02-06,22.0,1
+251,Smartphone,D605,Carolineview,92.0,37,762,2024-04-30,1.0,13
+489,Refrigerator,D392,Murphyside,108.0,95,202,2024-10-11,16.0,11
+422,Iron,D959,Jeffreyfort,266.0,43,275,2024-02-25,22.0,3
+925,Smartphone,D342,Murphyside,172.0,65,886,2024-10-24,25.0,7
+871,Fitness Tracker,D718,North Ashley,231.0,27,624,2024-10-23,16.0,5
+574,Refrigerator,D928,Carolineview,80.0,18,703,2024-05-20,,12
+812,External Hard Drive,D988,West Terrancehaven,1511.0,69,285,2024-06-06,18.0,13
+942,Microwave,D772,Fraziertown,97.0,73,856,2024-10-14,15.0,13
+769,Drone,D393,Fraziertown,347.0,75,640,2024-10-13,6.0,6
+551,Projector,D358,Port Sarah,186.0,78,306,2024-05-19,26.0,4
+480,Electric Kettle,D421,Brownchester,463.0,42,298,2024-04-05,27.0,4
+890,USB Flash Drive,D344,Brownchester,,38,762,2024-09-08,19.0,6
+345,Microwave,D157,Port Amanda,4003.0,52,246,2025-01-03,7.0,13
+919,Laptop,D115,West Terrancehaven,426.0,15,972,2024-08-21,14.0,14
+465,Bluetooth Speaker,D967,Fraziertown,124.0,85,457,2024-04-28,,11
+318,Fitness Tracker,D780,West Thomasberg,52.0,32,864,2024-09-08,28.0,6
+835,Smartphone,D720,East Justin,403.0,54,608,2024-03-19,22.0,5
+918,Washing Machine,D281,South Timothyfort,19.0,24,619,2024-10-21,13.0,4
+127,Fitness Tracker,D718,Martinezberg,53.0,32,336,2024-07-21,3.0,1
+697,Camera,D956,North Bonnieberg,17.0,84,588,2024-03-07,28.0,11
+889,Headphones,D291,Bushside,280.0,65,420,2024-12-17,5.0,4
+918,Tablet,D288,West Thomasberg,205.0,40,546,2025-01-12,4.0,6
+879,Smartwatch,D381,Scottbury,211.0,13,267,2025-01-27,3.0,12
+195,Electric Kettle,D388,Murphyside,350.0,29,509,2024-03-15,13.0,14
+465,Tablet,D917,Martinezberg,371.0,10,268,2024-12-02,24.0,13
+801,Smartphone,D928,East Justin,418.0,84,443,2025-02-05,,5
+463,Iron,D160,Port Amanda,212.0,47,848,2024-05-06,15.0,2
+840,Fitness Tracker,D145,North Bonnieberg,156.0,82,267,2024-12-17,17.0,3
+163,USB Flash Drive,D471,North Bonnieberg,373.0,21,559,2024-07-12,16.0,5
+980,Tablet,D967,East Justin,1815.0,92,680,2024-10-18,26.0,5
+680,Keyboard,D676,North Ashley,24.0,71,585,2024-06-28,30.0,5
+868,Printer,D451,Murphyside,458.0,87,299,2024-03-22,21.0,10
+450,Iron,D950,Fraziertown,106.0,72,518,2024-06-16,2.0,13
+609,Monitor,D924,North Bonnieberg,163.0,76,816,2024-02-29,1.0,7
+526,Smartwatch,D318,North Bonnieberg,264.0,80,538,2024-07-14,12.0,8
+865,Fitness Tracker,D412,East Justin,171.0,21,217,2024-07-06,13.0,6
+417,Coffee Maker,D636,Port Sarah,,33,695,2024-12-08,30.0,7
+538,Smartphone,D560,North Robinborough,127.0,17,382,2024-04-14,20.0,6
+305,Iron,D204,South Timothyfort,1956.0,57,957,2025-01-10,7.0,12
+626,Vacuum Cleaner,D131,West Terrancehaven,304.0,19,978,2025-02-11,27.0,7
+387,Camera,D741,North Bonnieberg,59.0,42,542,2025-02-03,27.0,14
+541,Air Conditioner,D298,Dawsonborough,62.0,10,800,2024-06-23,10.0,4
+614,Keyboard,D750,East Justin,419.0,22,713,2024-07-21,3.0,8
+711,Camera,D548,Murphyside,97.0,38,468,2024-09-25,22.0,1
+341,Drone,D803,Scottbury,42.0,28,944,2024-03-09,29.0,8
+326,USB Flash Drive,D564,New Bonnie,344.0,77,997,2024-05-13,27.0,9
+734,Rice Cooker,D103,Scottbury,,86,920,2025-01-24,10.0,8
+831,Rice Cooker,D653,Fraziertown,67.0,13,454,2024-06-10,18.0,3
+591,Laptop,D744,Murphyside,2.0,88,680,2025-01-27,2.0,5
+561,Vacuum Cleaner,D202,Carolineview,191.0,50,224,2025-01-15,6.0,7
+427,Smartphone,D930,Carolineview,299.0,98,428,2024-12-19,16.0,5
+168,Vacuum Cleaner,D134,Bushside,296.0,55,719,2024-04-09,30.0,15
+223,Gaming Console,D212,West Terrancehaven,398.0,16,411,2024-05-30,16.0,3
+994,Fitness Tracker,D103,Martinezberg,2734.0,33,274,2025-02-21,17.0,11
+643,Washing Machine,D687,Scottbury,134.0,56,386,2024-05-01,12.0,10
+726,Refrigerator,D135,North Ashley,,36,505,2024-11-06,22.0,6
+445,Keyboard,D996,Jeffreyfort,322.0,25,970,2024-06-28,23.0,7
+481,Headphones,D700,Brownchester,97.0,15,876,2024-06-29,8.0,3
+938,Iron,D971,Brownchester,408.0,31,301,2024-09-06,20.0,10
+667,Laptop,D401,Dawsonborough,89.0,82,553,2024-06-19,14.0,3
+680,External Hard Drive,D884,Dawsonborough,20.0,66,476,2024-12-26,30.0,6
+137,Laptop,D612,Jeffreyfort,364.0,53,864,2024-04-01,29.0,6
+816,Headphones,D841,Martinezberg,342.0,11,822,2024-05-08,7.0,12
+514,Keyboard,D336,Port Sarah,151.0,93,885,2024-02-23,4.0,8
+501,Tablet,D831,Carolineview,245.0,71,344,2024-07-03,14.0,9
+209,Projector,D948,Scottbury,2086.0,24,738,2024-03-15,15.0,11
+549,Router,D383,North Ashley,134.0,21,711,2024-11-29,6.0,8
+277,Mouse,D342,North Robinborough,294.0,46,355,2024-10-28,24.0,2
+482,Camera,D399,Port Christopherton,,18,636,2024-05-04,23.0,12
+397,Bluetooth Speaker,D698,Port Sarah,352.0,83,973,2025-01-12,19.0,3
+129,Smartphone,D512,Murphyside,401.0,47,726,2024-10-10,17.0,8
+135,Laptop,D784,Scottbury,403.0,59,955,2024-11-07,8.0,1
+406,Monitor,D482,Carolineview,79.0,40,574,2024-08-22,18.0,5
+284,Coffee Maker,D238,Jeffreyfort,356.0,86,631,2024-07-06,27.0,10
+529,Toaster,D848,Fraziertown,304.0,96,893,2024-12-07,14.0,12
+468,Headphones,D730,South Timothyfort,334.0,95,544,2024-02-23,22.0,13
+261,Laptop,D479,Fraziertown,,48,414,2024-06-30,4.0,39
+790,Smartwatch,D909,South Timothyfort,352.0,26,308,2024-11-27,18.0,12
+121,Keyboard,D222,Martinezberg,151.0,48,361,2024-04-01,21.0,6
+460,USB Flash Drive,D990,Dawsonborough,132.0,87,272,2024-06-25,30.0,13
+652,Vacuum Cleaner,D573,West Terrancehaven,10.0,42,235,2024-03-04,16.0,13
+908,Laptop,D771,Jeffreyfort,45.0,34,838,2024-09-24,30.0,5
+889,Rice Cooker,D203,Scottbury,4860.0,99,231,2024-10-20,13.0,8
+568,Rice Cooker,D145,South Timothyfort,448.0,94,362,2024-08-02,6.0,12
+512,Microwave,D529,Fraziertown,73.0,98,687,2025-02-20,5.0,9
+349,Air Conditioner,D988,East Justin,372.0,77,772,2024-11-26,6.0,8
+163,Router,D173,Port Sarah,456.0,76,501,2025-02-06,3.0,11
+214,Iron,D444,Dawsonborough,9.0,19,970,2025-02-01,7.0,5
+213,Electric Kettle,D132,North Ashley,364.0,47,856,2024-11-08,2.0,8
+740,Refrigerator,D148,Carolineview,,36,402,2024-08-05,21.0,3
+832,Gaming Console,D903,Murphyside,454.0,62,585,2024-12-19,11.0,6
+836,Toaster,D522,Port Christopherton,196.0,12,538,2024-04-17,19.0,4
+474,Iron,D732,Fraziertown,143.0,39,881,2024-08-03,25.0,15
+626,Fitness Tracker,D656,Carolineview,27.0,86,790,2024-11-26,15.0,14
+401,Bluetooth Speaker,D502,Martinezberg,403.0,91,298,2024-11-25,20.0,9
+960,Microwave,D581,Dawsonborough,206.0,55,289,2025-01-19,,31
+355,Keyboard,D665,East Justin,459.0,50,531,2025-01-02,12.0,14
+718,Bluetooth Speaker,D467,Brownchester,236.0,42,292,2024-10-28,6.0,10
+431,Air Conditioner,D713,Dawsonborough,273.0,22,983,2024-12-15,2.0,8
+682,Iron,D972,Murphyside,145.0,76,624,2024-12-07,,12
+455,Smartwatch,D404,Scottbury,490.0,90,809,2024-11-14,17.0,9
+590,Electric Kettle,D857,Port Christopherton,18.0,64,543,2024-11-23,12.0,12
+355,USB Flash Drive,D994,North Robinborough,143.0,24,862,2024-12-05,1.0,11
+966,Laptop,D196,Port Christopherton,191.0,10,794,2024-08-18,7.0,7
+722,Smartphone,D558,Murphyside,377.0,22,612,2025-01-25,9.0,8
+791,Gaming Console,D578,Carolineview,290.0,35,807,2024-05-06,29.0,1
+511,Electric Kettle,D993,Port Sarah,405.0,77,448,2024-10-15,7.0,9
+170,Router,D927,Scottbury,113.0,69,404,2024-11-07,4.0,15
+485,Keyboard,D380,North Bonnieberg,357.0,28,565,2024-12-21,19.0,15
+949,Tablet,D469,North Bonnieberg,303.0,86,330,2025-01-24,28.0,10
+459,Bluetooth Speaker,D577,Scottbury,4.0,35,244,2024-05-14,12.0,15
+789,Laptop,D535,Port Sarah,98.0,60,900,2024-05-25,20.0,11
+237,Monitor,D810,Carolineview,97.0,68,540,2024-07-04,2.0,10
+452,USB Flash Drive,D851,New Bonnie,150.0,19,428,2024-06-28,27.0,9
+505,Television,D409,Brownchester,320.0,61,366,2024-06-26,25.0,12
+925,Coffee Maker,D164,South Timothyfort,,48,764,2024-03-01,23.0,12
+985,Tablet,D618,West Terrancehaven,300.0,79,988,2024-10-22,3.0,6
+170,Microwave,D931,Scottbury,85.0,53,683,2024-07-30,23.0,11
+969,Blender,D380,Port Sarah,139.0,43,235,2025-01-24,26.0,13
+468,Refrigerator,D886,North Ashley,72.0,78,670,2024-06-29,,4
+506,Bluetooth Speaker,D735,Carolineview,430.0,53,530,2025-01-02,29.0,1
+696,Tablet,D249,Carolineview,228.0,59,376,2024-06-26,26.0,5
+511,Keyboard,D846,Port Amanda,470.0,58,575,2024-05-30,9.0,8
+637,External Hard Drive,D307,Port Sarah,449.0,77,849,2024-06-13,15.0,9
+284,Router,D162,Scottbury,103.0,37,948,2024-07-04,4.0,12
+975,Electric Kettle,D774,Martinezberg,151.0,23,432,2024-08-20,4.0,1
+991,Toaster,D662,Port Amanda,353.0,38,587,2024-10-03,23.0,6
+980,Television,D615,North Robinborough,168.0,48,800,2024-09-06,5.0,5
+323,USB Flash Drive,D637,Fraziertown,326.0,19,682,2024-02-24,1.0,1
+578,Smartphone,D392,Jeffreyfort,159.0,85,644,2024-08-23,15.0,14
+776,Coffee Maker,D639,North Ashley,2905.0,42,975,2024-04-18,,50
+346,Microwave,D194,Martinezberg,185.0,80,547,2024-11-24,5.0,14
+642,Fitness Tracker,D476,North Bonnieberg,1762.0,96,668,2025-02-04,4.0,12
+408,Toaster,D742,Murphyside,,88,592,2024-07-01,22.0,5
+614,Microwave,D238,North Bonnieberg,77.0,98,935,2024-06-05,9.0,8
+791,Keyboard,D729,North Robinborough,125.0,15,446,2024-07-01,,7
+213,Bluetooth Speaker,D699,Scottbury,,11,383,2024-06-21,15.0,6
+187,Monitor,D562,Carolineview,317.0,62,532,2025-01-26,10.0,5
+454,Washing Machine,D704,New Bonnie,297.0,31,509,2024-08-16,19.0,11
+506,Router,D911,Fraziertown,229.0,44,673,2024-05-10,11.0,9
+545,Iron,D326,Port Sarah,,35,254,2024-03-18,30.0,15
+782,Smartphone,D151,Murphyside,44.0,56,243,2024-05-15,23.0,3
+961,Gaming Console,D971,Port Christopherton,426.0,96,661,2024-07-24,25.0,14
+476,Headphones,D377,North Bonnieberg,211.0,15,990,2024-06-01,27.0,10
+659,Headphones,D719,Port Amanda,173.0,15,687,2024-06-01,,9
+902,Microwave,D990,South Timothyfort,131.0,15,934,2025-02-09,16.0,2
+491,External Hard Drive,D503,Martinezberg,233.0,94,806,2025-01-13,27.0,3
+353,Headphones,D608,Carolineview,325.0,54,844,2025-01-22,,10
+788,Vacuum Cleaner,D984,Dawsonborough,403.0,57,377,2025-01-21,6.0,8
+209,Air Conditioner,D992,Carolineview,2795.0,93,934,2024-06-12,4.0,10
+821,USB Flash Drive,D792,Murphyside,244.0,44,368,2024-07-31,5.0,8
+778,Blender,D940,Martinezberg,461.0,97,407,2024-11-10,15.0,3
+568,Drone,D429,Carolineview,176.0,63,873,2024-09-20,,1
+475,Router,D563,West Terrancehaven,247.0,16,573,2024-11-19,7.0,8
+593,Mouse,D358,Bushside,142.0,97,714,2024-06-30,26.0,3
+869,Fitness Tracker,D547,Martinezberg,245.0,96,838,2024-09-10,29.0,4
+615,Washing Machine,D356,West Terrancehaven,233.0,93,470,2024-06-20,2.0,14
+298,Microwave,D534,Dawsonborough,187.0,13,315,2024-06-22,27.0,9
+551,Electric Kettle,D392,North Ashley,395.0,24,669,2024-06-18,13.0,8
+437,Television,D283,Port Sarah,,12,327,2024-04-12,8.0,8
+307,Blender,D623,New Bonnie,1706.0,37,742,2024-08-04,30.0,15
+919,Printer,D149,North Ashley,3672.0,41,706,2024-02-29,6.0,3
+619,Fitness Tracker,D842,Jeffreyfort,106.0,63,829,2024-12-24,7.0,9
+963,Monitor,D461,North Robinborough,241.0,45,584,2025-01-21,16.0,7
+584,Fitness Tracker,D591,Dawsonborough,3754.0,27,505,2024-09-21,8.0,14
+295,Coffee Maker,D961,Dawsonborough,427.0,92,924,2025-01-09,12.0,3
+590,External Hard Drive,D222,South Timothyfort,382.0,64,448,2025-01-26,28.0,5
+522,Keyboard,D184,Port Sarah,338.0,31,458,2024-04-02,,39
+742,Fitness Tracker,D576,North Robinborough,234.0,30,541,2024-10-19,8.0,1
+919,Bluetooth Speaker,D472,Carolineview,23.0,49,414,2024-08-17,10.0,6
+595,Gaming Console,D292,Port Sarah,169.0,34,788,2024-11-16,4.0,12
+174,Smartwatch,D468,Scottbury,232.0,86,754,2025-02-06,3.0,10
+453,Projector,D723,Martinezberg,227.0,26,672,2024-03-26,12.0,15
+479,Camera,D351,Bushside,96.0,78,591,2024-02-26,16.0,13
+276,Headphones,D263,Carolineview,,82,815,2024-11-02,3.0,47
+891,Bluetooth Speaker,D940,Martinezberg,114.0,11,902,2025-02-19,26.0,6
+261,External Hard Drive,D874,Port Christopherton,448.0,59,338,2024-11-22,30.0,10
+302,Air Conditioner,D535,South Timothyfort,55.0,100,435,2024-12-13,13.0,5
+298,Toaster,D234,Jeffreyfort,1532.0,90,881,2024-03-17,18.0,1
+595,Blender,D168,Port Amanda,209.0,13,465,2024-11-25,3.0,2
+461,Rice Cooker,D405,North Ashley,58.0,24,447,2024-03-23,11.0,2
+715,Laptop,D357,North Bonnieberg,52.0,88,979,2024-06-10,29.0,13
+204,Smartwatch,D871,Murphyside,154.0,51,515,2025-02-01,25.0,1
+953,Blender,D287,Brownchester,478.0,39,780,2024-10-24,14.0,2
+736,Toaster,D783,Fraziertown,324.0,33,628,2024-10-10,12.0,12
+687,Television,D464,Bushside,225.0,100,897,2024-11-26,15.0,1
+478,Air Conditioner,D603,North Robinborough,461.0,66,797,2024-02-25,25.0,11
+222,Projector,D196,Murphyside,205.0,87,730,2024-05-06,16.0,11
+486,Refrigerator,D180,Scottbury,440.0,20,516,2024-02-27,23.0,6
+763,Refrigerator,D546,Dawsonborough,390.0,33,309,2024-06-23,16.0,14
+262,Tablet,D453,North Bonnieberg,251.0,40,545,2024-08-26,19.0,10
+957,Television,D115,Dawsonborough,208.0,65,871,2024-06-07,4.0,9
+619,Coffee Maker,D507,North Robinborough,366.0,64,689,2024-03-25,10.0,1
+809,External Hard Drive,D386,Martinezberg,180.0,63,327,2024-08-09,22.0,5
+183,Gaming Console,D507,Carolineview,196.0,49,492,2024-08-28,27.0,7
+581,Drone,D453,Scottbury,62.0,36,584,2024-08-11,28.0,3
+729,Router,D667,Murphyside,62.0,34,775,2024-10-01,16.0,8
+651,Fitness Tracker,D496,Martinezberg,74.0,39,428,2024-10-11,1.0,1
+756,Washing Machine,D741,New Bonnie,343.0,22,674,2025-02-14,16.0,9
+737,Camera,D544,Scottbury,206.0,91,565,2024-05-26,15.0,6
+984,Iron,D400,Dawsonborough,58.0,68,856,2024-07-11,22.0,7
+550,Washing Machine,D436,Dawsonborough,31.0,46,958,2024-05-27,21.0,9
+372,Refrigerator,D783,Jeffreyfort,252.0,79,762,2024-12-23,12.0,15
+576,Keyboard,D192,Bushside,,68,335,2025-01-20,,13
+803,Monitor,D273,Port Amanda,462.0,64,796,2024-08-11,,3
+480,Blender,D935,Port Christopherton,237.0,13,472,2024-10-03,15.0,11
+949,Laptop,D820,Port Sarah,278.0,40,415,2024-05-09,17.0,15
+422,Electric Kettle,D220,Port Sarah,479.0,23,486,2024-09-18,6.0,15
+824,Coffee Maker,D625,Port Amanda,222.0,63,411,2025-01-15,6.0,24
+160,Gaming Console,D905,Bushside,7.0,44,279,2024-08-27,19.0,6
+430,Smartwatch,D453,Carolineview,97.0,59,822,2024-05-07,8.0,1
+487,Microwave,D471,North Ashley,32.0,26,914,2024-12-31,14.0,6
+826,Router,D139,North Bonnieberg,37.0,11,594,2024-08-19,2.0,11
+621,Gaming Console,D549,Martinezberg,,16,473,2024-07-12,24.0,7
+335,Refrigerator,D153,Martinezberg,482.0,73,309,2024-09-10,29.0,14
+876,Television,D800,Carolineview,154.0,14,836,2024-07-15,29.0,13
+240,Electric Kettle,D744,Dawsonborough,465.0,29,393,2024-07-04,27.0,15
+223,Bluetooth Speaker,D534,North Robinborough,374.0,38,688,2024-08-27,20.0,11
+537,Camera,D572,North Bonnieberg,45.0,93,734,2024-08-15,11.0,13
+324,Refrigerator,D955,Brownchester,99.0,82,784,2024-10-26,,3
+127,Printer,D819,North Robinborough,253.0,88,663,2024-10-29,26.0,13
+334,Refrigerator,D182,New Bonnie,156.0,27,632,2024-11-10,11.0,15
+739,External Hard Drive,D112,North Bonnieberg,486.0,41,852,2025-01-23,7.0,8
+657,Refrigerator,D526,Murphyside,55.0,24,437,2024-06-07,25.0,15
+428,Blender,D890,North Ashley,,10,469,2024-09-04,5.0,10
+726,Refrigerator,D456,North Ashley,426.0,25,491,2024-04-07,,15
+984,Refrigerator,D892,Jeffreyfort,321.0,16,856,2025-01-14,,13
+542,External Hard Drive,D819,Murphyside,166.0,91,288,2024-03-07,30.0,2
+343,Electric Kettle,D477,North Robinborough,28.0,60,278,2024-09-26,6.0,13
+499,Drone,D614,Port Amanda,479.0,37,470,2024-10-27,14.0,8
+609,Camera,D669,North Bonnieberg,,93,633,2024-08-13,17.0,14
+344,Television,D368,Martinezberg,327.0,84,818,2024-09-26,28.0,2
+497,Printer,D328,Martinezberg,,94,274,2025-02-20,27.0,15
+472,Printer,D586,West Terrancehaven,452.0,59,502,2024-05-19,3.0,3
+337,Laptop,D383,Port Christopherton,315.0,20,240,2025-01-11,2.0,6
+784,Projector,D231,Port Sarah,41.0,60,455,2024-09-15,4.0,13
+971,Keyboard,D378,West Terrancehaven,329.0,100,537,2024-09-20,5.0,3
+974,Iron,D791,Dawsonborough,194.0,31,852,2024-08-18,24.0,6
+865,Camera,D827,Murphyside,,43,552,2024-03-19,6.0,6
+350,Drone,D225,Port Sarah,3599.0,53,401,2024-04-24,28.0,13
+208,Television,D679,Fraziertown,146.0,68,446,2024-03-15,16.0,43
+872,Gaming Console,D822,Port Amanda,,36,931,2024-08-14,22.0,6
+622,Air Conditioner,D315,Port Amanda,173.0,52,946,2024-07-23,29.0,4
+102,Mouse,D861,West Terrancehaven,341.0,42,756,2025-01-13,22.0,8
+803,Coffee Maker,D241,Port Sarah,381.0,72,817,2024-05-19,,4
+435,USB Flash Drive,D439,Dawsonborough,481.0,43,903,2024-04-30,21.0,12
+638,Drone,D950,New Bonnie,301.0,26,608,2024-11-16,9.0,15
+435,Headphones,D860,New Bonnie,195.0,16,478,2025-01-31,10.0,14
+449,Blender,D110,New Bonnie,500.0,60,686,2024-09-20,20.0,10
+575,Air Conditioner,D569,West Terrancehaven,226.0,34,898,2024-12-27,,14
+408,Microwave,D866,Martinezberg,109.0,70,718,2024-11-04,11.0,2
+506,Vacuum Cleaner,D859,North Ashley,238.0,86,270,2025-01-12,,30
+603,Blender,D759,Murphyside,389.0,58,825,2024-07-13,21.0,7
+680,Air Conditioner,D145,North Bonnieberg,304.0,47,691,2025-01-11,26.0,6
+467,Bluetooth Speaker,D693,North Robinborough,423.0,15,708,2024-03-10,12.0,32
+842,Printer,D174,South Timothyfort,1943.0,47,510,2024-12-07,28.0,43
+992,Headphones,D896,South Timothyfort,422.0,50,665,2025-01-05,,14
+897,Microwave,D875,Port Sarah,142.0,39,772,2024-04-27,5.0,9
+898,External Hard Drive,D535,Port Christopherton,344.0,63,344,2024-06-28,3.0,2
+612,Printer,D650,Fraziertown,,82,952,2024-05-25,18.0,6
+493,Smartphone,D207,North Robinborough,263.0,78,997,2024-12-13,12.0,27
+764,External Hard Drive,D178,Dawsonborough,140.0,46,786,2024-05-30,,7
+682,Monitor,D114,Port Amanda,176.0,69,564,2024-06-06,4.0,11
+947,Drone,D997,Dawsonborough,449.0,45,592,2024-03-14,21.0,3
+423,Smartwatch,D482,Fraziertown,389.0,20,703,2024-05-16,2.0,13
+195,Microwave,D399,East Justin,,26,553,2024-08-27,15.0,15
+388,Iron,D432,Jeffreyfort,476.0,19,734,2025-01-19,5.0,3
+636,Printer,D108,North Ashley,321.0,12,348,2025-01-29,23.0,7
+772,Printer,D885,East Justin,140.0,56,616,2024-06-07,,49
+727,Television,D330,Martinezberg,1605.0,61,791,2024-12-07,12.0,13
+619,Keyboard,D452,East Justin,,60,661,2024-12-30,7.0,1
+404,Electric Kettle,D331,Brownchester,451.0,80,933,2024-03-18,16.0,12
+563,External Hard Drive,D809,Port Sarah,161.0,41,956,2024-12-27,29.0,6
+362,Smartwatch,D387,East Justin,79.0,52,766,2025-01-12,,6
+560,Laptop,D372,North Bonnieberg,452.0,62,420,2024-07-20,,8
+924,Camera,D819,East Justin,256.0,94,1000,2024-08-01,3.0,35
+573,Toaster,D135,West Terrancehaven,26.0,25,697,2024-12-13,17.0,4
+321,Keyboard,D451,West Thomasberg,229.0,96,219,2024-10-17,,15
+971,Microwave,D650,North Bonnieberg,88.0,31,489,2025-02-13,1.0,11
+246,Smartwatch,D245,Brownchester,282.0,68,914,2024-10-12,24.0,2
+398,Toaster,D995,Murphyside,,90,877,2025-01-12,22.0,33
+908,External Hard Drive,D716,Port Amanda,229.0,77,817,2024-04-11,15.0,8
+330,Vacuum Cleaner,D891,Dawsonborough,174.0,26,630,2024-12-18,5.0,7
+555,Printer,D253,North Robinborough,240.0,33,237,2024-08-09,18.0,3
+606,Tablet,D136,Dawsonborough,384.0,95,254,2025-02-04,14.0,15
+768,Mouse,D109,South Timothyfort,14.0,29,286,2024-10-28,16.0,6
+294,Coffee Maker,D278,Martinezberg,316.0,72,537,2024-11-21,26.0,2
+197,Washing Machine,D378,North Bonnieberg,364.0,37,648,2025-01-08,28.0,15
+970,Electric Kettle,D497,Scottbury,20.0,85,468,2024-08-05,5.0,6
+166,Fitness Tracker,D165,Scottbury,214.0,61,232,2024-07-12,21.0,15
+420,Toaster,D938,New Bonnie,80.0,61,645,2024-04-09,17.0,7
+609,Washing Machine,D172,North Robinborough,330.0,44,362,2024-12-12,14.0,13
+551,Vacuum Cleaner,D205,Martinezberg,253.0,43,868,2025-01-21,17.0,35
+184,Television,D752,North Bonnieberg,361.0,72,584,2024-03-02,7.0,7
+606,Tablet,D878,Bushside,372.0,39,841,2024-03-04,14.0,8
+182,Bluetooth Speaker,D663,North Ashley,127.0,78,273,2024-11-04,10.0,10
+986,Rice Cooker,D219,Scottbury,84.0,23,338,2025-01-07,,2
+370,Coffee Maker,D154,East Justin,483.0,21,762,2024-10-23,17.0,5
+181,Keyboard,D461,Murphyside,456.0,18,958,2024-08-11,23.0,2
+225,Bluetooth Speaker,D328,Scottbury,263.0,46,804,2024-04-03,16.0,8
+549,Tablet,D894,Jeffreyfort,81.0,31,613,2024-10-06,25.0,12
+459,Television,D767,Brownchester,263.0,68,440,2024-09-03,26.0,8
+869,Camera,D800,Jeffreyfort,155.0,38,577,2024-12-04,19.0,7
+912,Rice Cooker,D127,West Thomasberg,369.0,60,832,2024-04-26,15.0,1
+376,Bluetooth Speaker,D404,Fraziertown,2337.0,42,622,2025-01-31,19.0,3
+896,Iron,D661,West Terrancehaven,140.0,94,256,2024-08-17,12.0,1
+517,Drone,D609,New Bonnie,218.0,98,464,2024-12-18,17.0,5
+956,Toaster,D655,North Ashley,449.0,99,710,2024-06-17,,5
+626,Toaster,D626,Dawsonborough,11.0,19,351,2024-07-15,4.0,1
+122,Vacuum Cleaner,D658,Bushside,315.0,72,371,2024-04-27,3.0,15
+259,Gaming Console,D272,Fraziertown,24.0,49,483,2024-07-20,4.0,11
+759,Rice Cooker,D344,Murphyside,349.0,69,809,2025-01-17,27.0,1
+853,Air Conditioner,D832,Martinezberg,428.0,28,912,2024-09-28,6.0,2
+915,Vacuum Cleaner,D527,North Robinborough,103.0,72,517,2024-12-24,,5
+284,Electric Kettle,D311,Fraziertown,500.0,72,839,2024-12-27,12.0,14
+734,Bluetooth Speaker,D160,North Bonnieberg,405.0,60,205,2024-03-11,3.0,12
+961,Air Conditioner,D328,Port Christopherton,471.0,61,237,2024-10-04,13.0,12
+535,Bluetooth Speaker,D830,Bushside,220.0,12,529,2024-06-26,7.0,5
+165,Toaster,D975,Port Christopherton,370.0,45,387,2025-01-21,27.0,5
+791,Smartwatch,D786,West Terrancehaven,484.0,69,217,2024-03-11,7.0,12
+407,Keyboard,D663,Fraziertown,296.0,61,921,2024-04-20,24.0,8
+624,Headphones,D703,West Thomasberg,425.0,71,443,2024-05-07,14.0,39
+788,Television,D152,South Timothyfort,325.0,68,602,2024-09-18,10.0,11
+305,Washing Machine,D327,Martinezberg,163.0,54,860,2024-07-25,13.0,10
+578,USB Flash Drive,D318,Murphyside,107.0,75,804,2024-06-12,8.0,4
+738,Bluetooth Speaker,D302,South Timothyfort,199.0,76,919,2024-08-20,8.0,6
+389,Mouse,D521,North Robinborough,70.0,72,572,2025-02-10,26.0,13
+989,Television,D651,Martinezberg,348.0,54,1000,2024-12-01,1.0,6
+356,Smartphone,D885,Fraziertown,,81,929,2024-05-28,27.0,1
+360,Drone,D344,Port Christopherton,2.0,59,360,2024-03-14,21.0,1
+922,Refrigerator,D673,West Thomasberg,477.0,32,790,2024-08-27,16.0,15
+108,Monitor,D248,Bushside,22.0,17,387,2024-10-02,6.0,14
+113,Electric Kettle,D287,Port Sarah,,13,527,2024-06-26,19.0,15
+964,Gaming Console,D223,Port Sarah,448.0,28,312,2024-06-14,17.0,11
+757,Television,D699,East Justin,349.0,96,738,2024-11-21,29.0,10
+713,Toaster,D814,West Terrancehaven,315.0,20,330,2024-06-09,,14
+989,Fitness Tracker,D474,North Ashley,392.0,89,390,2024-12-04,12.0,3
+284,External Hard Drive,D321,Port Sarah,,60,771,2024-05-17,3.0,12
+732,Printer,D181,Port Sarah,4919.0,31,621,2024-03-23,1.0,3
+761,Iron,D983,Fraziertown,350.0,97,221,2024-09-14,11.0,1
+341,Coffee Maker,D589,Port Amanda,2737.0,16,540,2024-07-13,23.0,15
+295,Fitness Tracker,D141,Bushside,367.0,62,732,2024-08-04,5.0,6
+131,Television,D924,Scottbury,172.0,78,429,2024-11-07,12.0,6
+304,USB Flash Drive,D979,North Bonnieberg,58.0,49,645,2024-10-02,,5
+406,Television,D958,Port Christopherton,206.0,32,477,2024-09-30,15.0,6
+481,Monitor,D592,West Terrancehaven,336.0,74,788,2025-01-17,1.0,50
+399,Drone,D794,North Ashley,401.0,90,212,2024-12-25,30.0,14
+476,Projector,D409,East Justin,231.0,91,228,2024-07-20,19.0,1
+312,Refrigerator,D553,Brownchester,314.0,76,802,2024-08-21,12.0,2
+824,USB Flash Drive,D908,Martinezberg,192.0,61,605,2024-10-25,,27
+838,Mouse,D586,Jeffreyfort,429.0,10,600,2024-04-10,10.0,2
+141,Laptop,D988,West Terrancehaven,413.0,18,723,2024-03-01,15.0,15
+641,Bluetooth Speaker,D217,Murphyside,254.0,50,233,2024-03-16,30.0,11
+935,Microwave,D493,Port Christopherton,77.0,68,462,2024-09-13,9.0,5
+203,Refrigerator,D280,Bushside,2.0,26,499,2024-04-25,21.0,4
+335,Router,D507,Brownchester,271.0,89,403,2025-01-19,28.0,9
+876,Printer,D489,Port Amanda,405.0,25,970,2024-05-08,2.0,6
+434,Iron,D502,Dawsonborough,126.0,69,525,2024-03-25,11.0,2
+848,Tablet,D807,Fraziertown,227.0,13,317,2024-03-07,12.0,9
+327,Air Conditioner,D632,Brownchester,276.0,90,632,2024-02-28,6.0,3
+847,Television,D881,Scottbury,245.0,39,559,2024-09-26,8.0,4
+998,Rice Cooker,D602,East Justin,305.0,74,367,2024-08-29,29.0,4
+580,Vacuum Cleaner,D162,Port Christopherton,180.0,38,360,2024-09-30,16.0,14
+377,Smartwatch,D525,Port Amanda,433.0,16,333,2024-02-24,5.0,6
+298,Washing Machine,D662,Murphyside,,77,441,2024-06-11,9.0,10
+389,Printer,D637,Carolineview,156.0,76,568,2024-09-16,22.0,12
+998,Microwave,D756,East Justin,364.0,54,205,2024-08-18,20.0,3
+899,Smartwatch,D429,West Terrancehaven,138.0,67,238,2024-05-09,,4
+701,External Hard Drive,D787,Port Sarah,425.0,65,481,2024-04-22,9.0,13
+686,Iron,D567,South Timothyfort,3898.0,30,742,2024-07-28,14.0,2
+839,Electric Kettle,D856,South Timothyfort,142.0,70,353,2024-04-13,18.0,7
+878,Bluetooth Speaker,D905,North Robinborough,1.0,59,685,2024-10-06,25.0,12
+797,Drone,D801,Port Amanda,,51,679,2024-04-07,4.0,10
+283,External Hard Drive,D634,Port Christopherton,331.0,19,281,2024-04-01,7.0,3
+819,Electric Kettle,D151,Port Christopherton,494.0,52,524,2024-05-20,7.0,1
+368,Rice Cooker,D827,Port Christopherton,172.0,19,705,2024-08-06,27.0,11
+542,Printer,D515,North Bonnieberg,77.0,57,595,2024-09-15,6.0,6
+162,Keyboard,D419,Port Amanda,139.0,76,915,2024-03-18,19.0,38
+532,Smartphone,D991,Port Christopherton,409.0,85,470,2024-11-23,29.0,4
+741,External Hard Drive,D128,West Terrancehaven,119.0,76,437,2024-05-17,3.0,13
+142,Monitor,D903,Port Sarah,397.0,32,858,2024-04-06,13.0,3
+603,Drone,D417,Bushside,491.0,45,222,2024-10-11,17.0,10
+593,Tablet,D266,Martinezberg,,58,809,2025-01-13,5.0,8
+299,Tablet,D869,Murphyside,306.0,13,321,2024-11-02,,4
+487,Drone,D600,West Thomasberg,311.0,39,640,2024-11-02,10.0,8
+264,Projector,D951,West Thomasberg,148.0,82,705,2024-07-20,5.0,13
+679,Drone,D963,North Bonnieberg,212.0,84,902,2024-07-01,27.0,1
+745,Smartphone,D952,Port Amanda,88.0,75,445,2024-11-28,14.0,7
+111,Drone,D533,Fraziertown,380.0,91,896,2024-04-08,17.0,33
+668,Smartphone,D850,West Terrancehaven,123.0,39,751,2024-06-03,25.0,5
+151,Bluetooth Speaker,D398,Scottbury,94.0,82,524,2025-02-19,6.0,15
+259,Television,D166,Port Amanda,281.0,86,915,2024-10-22,17.0,31
+419,Microwave,D206,South Timothyfort,224.0,87,351,2024-08-04,5.0,14
+928,Camera,D375,South Timothyfort,457.0,35,882,2024-07-25,3.0,13
+578,Electric Kettle,D190,South Timothyfort,160.0,64,891,2024-11-22,30.0,3
+872,Toaster,D424,West Thomasberg,287.0,64,303,2024-12-12,11.0,15
+905,Headphones,D798,North Robinborough,229.0,62,489,2024-09-16,27.0,11
+377,Coffee Maker,D780,West Thomasberg,22.0,26,299,2025-01-03,11.0,13
+574,Camera,D133,North Robinborough,243.0,44,879,2024-10-13,16.0,2
+263,Vacuum Cleaner,D778,West Thomasberg,59.0,75,710,2024-11-16,12.0,9
+357,Iron,D789,Brownchester,385.0,94,538,2024-10-05,6.0,14
+735,Coffee Maker,D253,North Bonnieberg,247.0,26,589,2024-06-25,,7
+733,Smartphone,D503,Port Amanda,,44,918,2024-02-27,14.0,11
+513,Refrigerator,D749,Port Sarah,285.0,70,434,2024-04-12,5.0,12
+784,Mouse,D425,Jeffreyfort,256.0,97,844,2024-05-16,27.0,14
+592,Monitor,D683,West Terrancehaven,290.0,87,913,2024-10-26,26.0,4
+221,Laptop,D657,East Justin,291.0,54,929,2024-10-23,18.0,2
+638,USB Flash Drive,D794,Martinezberg,314.0,75,671,2024-09-14,22.0,28
+472,Router,D576,Scottbury,89.0,50,262,2024-02-29,,29
+274,Tablet,D777,East Justin,326.0,45,271,2025-01-29,8.0,2
+586,Headphones,D523,Brownchester,224.0,35,286,2025-01-15,15.0,3
+417,Washing Machine,D455,North Bonnieberg,109.0,56,480,2024-07-23,10.0,14
+787,Keyboard,D300,Port Christopherton,125.0,58,268,2024-07-20,30.0,4
+265,Headphones,D145,Jeffreyfort,71.0,50,279,2024-06-09,10.0,8
+925,Coffee Maker,D961,Murphyside,,33,722,2024-05-04,16.0,5
+877,Vacuum Cleaner,D233,Bushside,26.0,17,484,2025-01-18,30.0,7
+692,Television,D160,Scottbury,100.0,44,414,2025-01-12,8.0,14
+941,Iron,D957,Dawsonborough,346.0,82,810,2024-11-29,23.0,7
+783,Electric Kettle,D464,East Justin,237.0,65,393,2024-11-24,15.0,2
+862,Smartphone,D640,Jeffreyfort,190.0,64,928,2024-04-27,20.0,13
+282,External Hard Drive,D950,West Terrancehaven,,59,945,2025-01-17,19.0,14
+461,Tablet,D678,Jeffreyfort,414.0,45,998,2024-06-13,26.0,12
+228,External Hard Drive,D935,East Justin,400.0,85,556,2025-01-24,21.0,5
+437,Router,D694,Bushside,138.0,66,838,2024-12-28,6.0,4
+322,Coffee Maker,D865,South Timothyfort,168.0,19,568,2024-09-17,,10
+443,Mouse,D223,East Justin,236.0,48,948,2024-12-04,18.0,23
+226,External Hard Drive,D936,North Robinborough,129.0,91,732,2024-08-04,7.0,6
+278,Bluetooth Speaker,D569,Bushside,415.0,49,464,2024-09-21,28.0,12
+863,Monitor,D955,North Robinborough,489.0,39,647,2024-04-27,16.0,10
+988,Microwave,D804,West Terrancehaven,429.0,16,430,2024-06-03,4.0,24
+474,Iron,D526,Dawsonborough,20.0,62,454,2024-05-23,24.0,9
+245,Smartwatch,D760,West Terrancehaven,193.0,93,519,2024-08-13,11.0,4
+728,Rice Cooker,D921,New Bonnie,261.0,68,978,2024-11-19,12.0,13
+530,Smartphone,D646,Port Christopherton,62.0,36,711,2024-03-02,6.0,3
+784,Television,D875,South Timothyfort,236.0,49,416,2024-09-07,13.0,10
+911,Headphones,D572,Jeffreyfort,389.0,75,357,2024-08-13,7.0,12
+520,Bluetooth Speaker,D634,Port Amanda,456.0,81,829,2024-11-09,8.0,4
+984,Refrigerator,D782,West Thomasberg,433.0,95,317,2024-05-25,10.0,4
+192,Air Conditioner,D132,West Terrancehaven,113.0,63,570,2024-10-10,,1
+241,Printer,D296,Port Amanda,197.0,83,969,2024-12-15,21.0,14
+590,Rice Cooker,D887,Brownchester,341.0,41,456,2024-12-30,29.0,2
+773,Drone,D639,Murphyside,295.0,76,336,2024-06-17,16.0,5
+903,Microwave,D786,Port Sarah,457.0,55,863,2024-04-12,7.0,1
+563,Television,D877,Dawsonborough,103.0,11,583,2024-11-14,16.0,7
+444,Bluetooth Speaker,D245,Port Amanda,222.0,72,409,2024-03-10,8.0,11
+847,Blender,D205,East Justin,,10,366,2024-04-13,15.0,9
+194,Television,D128,Port Sarah,213.0,61,586,2024-09-26,22.0,7
+465,Fitness Tracker,D740,Martinezberg,,77,581,2024-02-26,21.0,9
+155,Electric Kettle,D776,Dawsonborough,102.0,97,871,2024-09-14,30.0,15
+638,Camera,D969,Port Sarah,119.0,12,961,2024-06-17,,15
+911,Headphones,D476,South Timothyfort,110.0,14,490,2024-08-06,2.0,2
+243,Television,D818,West Thomasberg,64.0,90,556,2024-08-19,13.0,10
+157,Smartwatch,D742,Martinezberg,113.0,43,903,2024-07-16,8.0,4
+120,Smartphone,D698,South Timothyfort,428.0,14,821,2024-09-30,24.0,9
+436,Fitness Tracker,D502,East Justin,4229.0,55,693,2024-11-19,16.0,13
+727,Refrigerator,D969,Bushside,3.0,41,900,2025-01-04,23.0,14
+230,Router,D227,Carolineview,364.0,69,374,2024-04-21,8.0,49
+313,USB Flash Drive,D312,North Robinborough,,74,329,2024-10-30,9.0,7
+428,Smartwatch,D284,Fraziertown,380.0,83,944,2024-09-01,11.0,15
+808,Router,D473,Murphyside,2659.0,40,706,2024-09-30,13.0,3
+988,External Hard Drive,D923,Fraziertown,,83,396,2024-08-15,14.0,2
+172,Toaster,D350,Murphyside,355.0,13,665,2024-03-31,1.0,15
+241,Monitor,D980,New Bonnie,415.0,48,675,2024-12-01,11.0,7
+726,Iron,D398,New Bonnie,67.0,23,442,2024-09-05,30.0,12
+105,Bluetooth Speaker,D360,West Thomasberg,12.0,41,402,2024-03-11,14.0,13
+576,Mouse,D917,Fraziertown,178.0,43,778,2024-06-23,18.0,13
+216,Blender,D615,Dawsonborough,,67,484,2024-12-17,19.0,4
+721,Washing Machine,D727,Martinezberg,120.0,82,723,2025-02-13,27.0,15
+887,Camera,D550,Scottbury,189.0,65,673,2025-02-14,9.0,9
+337,Microwave,D167,Brownchester,421.0,69,307,2024-03-21,18.0,12
+684,Coffee Maker,D531,North Robinborough,57.0,70,740,2024-12-02,29.0,2
+484,Projector,D819,Port Amanda,3139.0,89,498,2024-04-24,3.0,10
+537,Bluetooth Speaker,D634,East Justin,335.0,19,774,2025-02-17,15.0,7
+608,Microwave,D747,Port Sarah,66.0,82,438,2025-01-23,4.0,11
+167,Smartwatch,D964,Dawsonborough,115.0,54,874,2024-10-25,26.0,8
+740,Keyboard,D189,New Bonnie,436.0,55,946,2024-03-28,,12
+856,Printer,D979,Port Amanda,304.0,28,665,2024-10-30,,11
+331,Camera,D494,Brownchester,463.0,92,608,2024-07-16,28.0,8
+544,USB Flash Drive,D850,Carolineview,120.0,84,258,2024-06-10,8.0,14
+190,Drone,D325,Carolineview,,37,611,2024-08-27,6.0,14
+104,Projector,D123,Martinezberg,82.0,48,611,2024-06-22,30.0,29
+436,Coffee Maker,D314,Fraziertown,153.0,43,261,2024-03-03,25.0,7
+480,Air Conditioner,D954,Brownchester,205.0,30,426,2024-03-29,14.0,15
+278,Smartwatch,D956,North Bonnieberg,153.0,64,253,2024-07-29,,1
+489,Air Conditioner,D135,South Timothyfort,326.0,29,616,2024-02-24,27.0,10
+804,Blender,D692,North Robinborough,2434.0,75,483,2025-01-08,29.0,2
+168,Air Conditioner,D324,North Ashley,,14,580,2024-06-26,5.0,27
+502,Blender,D930,Port Christopherton,,23,755,2024-10-28,3.0,6
+602,External Hard Drive,D902,Scottbury,2931.0,33,780,2024-11-28,3.0,4
+864,Blender,D996,New Bonnie,383.0,11,260,2024-06-15,21.0,5
+669,Coffee Maker,D244,Scottbury,141.0,29,291,2024-10-06,13.0,4
+535,Mouse,D479,Brownchester,349.0,79,807,2025-01-12,11.0,14
+918,Smartphone,D355,Murphyside,219.0,89,959,2024-10-16,13.0,3
+824,Microwave,D140,Carolineview,219.0,31,327,2024-06-06,,9
+369,Refrigerator,D932,Port Sarah,438.0,14,632,2024-07-18,18.0,7
+979,Blender,D596,Jeffreyfort,439.0,22,858,2025-02-01,12.0,15
+541,Gaming Console,D819,South Timothyfort,367.0,21,345,2024-08-04,6.0,8
+597,Printer,D138,Bushside,,57,795,2024-06-20,23.0,1
+441,Blender,D568,Bushside,74.0,57,752,2024-08-31,,11
+428,Tablet,D266,South Timothyfort,465.0,78,594,2024-10-07,,15
+816,Smartphone,D394,New Bonnie,112.0,41,426,2024-10-05,11.0,1
+165,Smartwatch,D221,Scottbury,331.0,58,590,2024-10-21,7.0,4
+599,Television,D435,Port Amanda,125.0,17,710,2024-05-01,9.0,1
+137,Fitness Tracker,D929,Carolineview,95.0,52,440,2024-08-11,,12
+832,Vacuum Cleaner,D851,West Thomasberg,102.0,66,205,2025-02-13,26.0,10
+500,Bluetooth Speaker,D644,Jeffreyfort,109.0,21,241,2024-03-20,30.0,3
+186,Blender,D154,Scottbury,4485.0,94,682,2025-02-19,17.0,2
+628,Headphones,D453,New Bonnie,393.0,98,677,2024-12-27,30.0,9
+143,Iron,D692,New Bonnie,236.0,21,244,2024-06-20,16.0,3
+201,Toaster,D764,Martinezberg,102.0,98,286,2024-09-08,1.0,12
+800,Camera,D915,Fraziertown,60.0,96,360,2024-07-05,27.0,13
+412,Drone,D205,Port Christopherton,,30,632,2024-10-29,29.0,9
+952,Camera,D326,Bushside,160.0,26,709,2024-12-16,7.0,10
+547,Router,D715,New Bonnie,227.0,35,447,2024-05-16,14.0,9
+727,Drone,D541,Port Christopherton,368.0,11,690,2024-08-16,10.0,1
+351,Television,D239,West Thomasberg,69.0,45,444,2024-03-01,,8
+776,Bluetooth Speaker,D433,Murphyside,328.0,88,733,2024-09-14,9.0,2
+434,Headphones,D349,Carolineview,,62,526,2024-10-12,23.0,7
+604,Rice Cooker,D935,Port Amanda,443.0,71,567,2024-07-08,,8
+837,Blender,D735,West Thomasberg,10.0,74,598,2024-06-27,8.0,4
+855,Washing Machine,D733,New Bonnie,99.0,46,432,2024-08-09,2.0,10
+114,Keyboard,D172,North Ashley,92.0,84,293,2024-05-01,16.0,1
+702,Vacuum Cleaner,D653,West Thomasberg,25.0,75,506,2024-09-02,2.0,5
+556,Bluetooth Speaker,D477,Port Sarah,309.0,81,570,2025-02-06,8.0,6
+467,External Hard Drive,D955,New Bonnie,248.0,28,782,2024-04-24,25.0,12
+350,Tablet,D488,West Thomasberg,447.0,53,240,2024-08-22,26.0,1
+619,USB Flash Drive,D416,Scottbury,393.0,56,356,2024-03-19,20.0,10
+923,Electric Kettle,D557,Bushside,,68,617,2024-04-28,17.0,11
+702,Rice Cooker,D680,Port Sarah,63.0,52,440,2024-05-05,8.0,5
+375,Toaster,D444,West Thomasberg,395.0,82,711,2025-02-15,10.0,7
+941,Monitor,D783,Dawsonborough,52.0,42,742,2025-01-13,19.0,1
+747,Iron,D311,Brownchester,164.0,71,240,2025-01-13,25.0,4
+286,Tablet,D119,North Bonnieberg,443.0,36,992,2024-06-04,21.0,7
+503,Bluetooth Speaker,D874,Carolineview,386.0,46,572,2024-12-15,14.0,9
+645,Router,D946,Fraziertown,36.0,87,516,2024-04-10,,9
+692,Camera,D852,New Bonnie,126.0,66,805,2024-07-04,9.0,11
+477,Mouse,D881,Fraziertown,410.0,99,380,2024-12-21,17.0,46
+391,Toaster,D652,Port Christopherton,499.0,57,457,2024-09-12,27.0,4
+442,Rice Cooker,D626,East Justin,305.0,90,269,2024-04-06,8.0,11
+672,Camera,D298,Brownchester,,99,267,2024-10-29,30.0,5
+318,External Hard Drive,D967,North Bonnieberg,247.0,91,903,2024-10-20,20.0,8
+721,Microwave,D378,North Bonnieberg,420.0,24,958,2024-08-26,23.0,15
+573,Toaster,D138,Port Sarah,,43,715,2024-10-10,11.0,1
+149,Television,D763,West Terrancehaven,120.0,22,655,2025-02-01,17.0,7
+442,Smartwatch,D743,North Ashley,449.0,81,475,2024-06-18,29.0,9
+352,Keyboard,D317,South Timothyfort,354.0,79,553,2024-11-18,16.0,14
+651,Smartwatch,D953,South Timothyfort,5.0,85,721,2025-01-07,6.0,13
+863,Smartphone,D293,North Ashley,161.0,16,681,2024-03-11,,6
+625,Headphones,D965,North Robinborough,457.0,52,561,2025-01-01,4.0,9
+437,Microwave,D845,Martinezberg,,34,508,2024-07-25,,2
+373,Router,D885,Port Christopherton,341.0,90,989,2024-06-21,4.0,6
+802,Fitness Tracker,D776,Scottbury,145.0,61,595,2024-02-27,10.0,37
+515,Monitor,D937,Bushside,227.0,25,820,2024-09-29,10.0,4
+812,Smartwatch,D380,East Justin,175.0,62,595,2024-07-26,8.0,10
+268,Tablet,D364,Carolineview,70.0,15,955,2025-02-16,27.0,9
+691,USB Flash Drive,D611,New Bonnie,412.0,17,929,2024-07-26,8.0,3
+538,Router,D267,North Bonnieberg,182.0,88,800,2025-01-14,17.0,15
+275,Projector,D318,Martinezberg,138.0,31,696,2024-06-25,9.0,2
+947,Washing Machine,D698,Murphyside,81.0,92,821,2024-04-29,16.0,14
+642,Laptop,D320,Carolineview,142.0,52,280,2024-10-21,15.0,15
+291,Blender,D929,Port Christopherton,112.0,29,986,2024-07-28,7.0,7
+739,Rice Cooker,D158,North Ashley,113.0,37,635,2024-10-17,16.0,12
+627,Microwave,D552,New Bonnie,108.0,90,545,2024-09-26,10.0,10
+426,Toaster,D746,Murphyside,442.0,39,749,2024-09-06,9.0,8
+506,Camera,D238,South Timothyfort,158.0,63,791,2024-05-30,9.0,15
+641,Refrigerator,D957,Scottbury,342.0,10,834,2024-03-08,14.0,4
+415,Laptop,D380,South Timothyfort,11.0,28,262,2025-01-04,13.0,3
+814,Washing Machine,D472,Port Sarah,171.0,54,351,2024-07-24,6.0,12
+306,Electric Kettle,D880,Port Amanda,324.0,73,594,2024-06-30,7.0,4
+737,Electric Kettle,D440,Carolineview,45.0,74,360,2024-11-30,9.0,9
+292,Tablet,D290,North Ashley,427.0,46,255,2024-11-30,28.0,8
+798,Electric Kettle,D560,Martinezberg,170.0,37,552,2024-11-20,,8
+499,Smartphone,D838,South Timothyfort,4686.0,56,694,2024-08-19,1.0,13
+845,Washing Machine,D389,Scottbury,313.0,12,752,2025-02-20,9.0,9
+646,External Hard Drive,D201,West Thomasberg,1158.0,56,398,2025-01-06,19.0,7
+416,Vacuum Cleaner,D833,North Bonnieberg,403.0,62,306,2025-02-08,28.0,15
+440,Toaster,D901,Martinezberg,,54,515,2024-08-13,17.0,7
+753,Drone,D651,West Thomasberg,364.0,39,381,2024-05-12,22.0,6
+404,Smartwatch,D318,Bushside,400.0,47,412,2024-08-01,27.0,8
+322,Toaster,D796,New Bonnie,410.0,37,280,2024-09-09,,13
+977,Smartphone,D470,Martinezberg,210.0,13,371,2024-05-19,21.0,2
+396,Microwave,D723,West Thomasberg,235.0,12,956,2024-02-27,2.0,6
+709,Washing Machine,D270,East Justin,29.0,51,962,2024-11-25,,11
+253,Electric Kettle,D928,West Thomasberg,334.0,100,246,2024-06-12,29.0,9
+591,Headphones,D727,Murphyside,343.0,35,241,2024-09-03,24.0,14
+369,Blender,D885,West Terrancehaven,344.0,91,741,2024-12-25,17.0,2
+634,Projector,D568,East Justin,124.0,74,250,2024-03-21,17.0,12
+726,Tablet,D188,Dawsonborough,320.0,99,617,2024-03-22,15.0,6
+345,Blender,D290,Scottbury,269.0,17,588,2024-03-22,8.0,5
+282,Vacuum Cleaner,D957,Brownchester,382.0,18,464,2024-03-29,8.0,28
+710,Bluetooth Speaker,D592,North Robinborough,476.0,11,677,2024-06-23,13.0,8
+220,Printer,D108,West Terrancehaven,274.0,78,715,2024-10-26,,6
+683,Drone,D157,South Timothyfort,91.0,31,250,2024-10-20,,11
+405,Camera,D222,Port Christopherton,77.0,47,424,2024-05-11,7.0,15
+366,Router,D982,East Justin,254.0,46,923,2024-06-09,23.0,1
+385,Router,D557,Brownchester,,65,933,2024-03-01,22.0,12
+844,Monitor,D541,Dawsonborough,,60,205,2025-01-30,6.0,8
+468,Washing Machine,D518,Port Amanda,,33,551,2024-07-13,26.0,15
+944,Router,D329,Fraziertown,492.0,46,869,2024-06-28,2.0,11
+888,Drone,D721,Port Christopherton,164.0,41,318,2024-12-31,3.0,7
+879,Printer,D728,Dawsonborough,266.0,67,622,2024-04-27,29.0,9
+756,Bluetooth Speaker,D709,Brownchester,366.0,62,274,2024-07-28,18.0,38
+112,Iron,D304,Carolineview,56.0,11,519,2024-08-01,29.0,13
+514,Keyboard,D462,North Bonnieberg,333.0,20,487,2024-05-01,30.0,6
+531,Television,D673,North Bonnieberg,209.0,49,954,2024-12-31,25.0,3
+408,Television,D665,Port Amanda,408.0,41,420,2024-07-24,13.0,14
+536,Television,D748,Bushside,272.0,30,715,2024-09-11,22.0,6
+694,Television,D222,North Robinborough,391.0,31,431,2024-10-31,19.0,1
+742,Fitness Tracker,D676,Fraziertown,1827.0,91,544,2024-08-11,,7
+277,Keyboard,D249,Bushside,26.0,72,700,2024-04-19,22.0,5
+727,External Hard Drive,D160,East Justin,359.0,96,470,2024-08-10,11.0,4
+202,Smartphone,D630,Carolineview,93.0,86,246,2024-08-02,17.0,48
+568,Air Conditioner,D774,Carolineview,,56,438,2024-03-11,11.0,4
+472,Iron,D475,Scottbury,175.0,38,914,2024-11-28,19.0,5
+131,Toaster,D259,Murphyside,,39,338,2024-03-24,19.0,13
+338,Drone,D374,Brownchester,107.0,74,577,2025-01-23,26.0,29
+990,Laptop,D935,West Thomasberg,434.0,20,730,2024-12-02,14.0,4
+559,Projector,D606,North Robinborough,30.0,56,300,2024-08-13,17.0,3
+535,Projector,D429,Dawsonborough,50.0,22,840,2024-09-29,4.0,13
+736,Rice Cooker,D913,Murphyside,385.0,66,496,2024-04-17,25.0,5
+105,Refrigerator,D384,Port Christopherton,408.0,27,451,2024-10-04,2.0,1
+952,Camera,D905,South Timothyfort,339.0,61,664,2024-04-22,30.0,15
+789,Vacuum Cleaner,D408,Bushside,267.0,73,889,2024-12-26,15.0,15
+173,Bluetooth Speaker,D465,Port Amanda,192.0,94,380,2025-02-11,17.0,1
+379,Monitor,D421,Bushside,320.0,31,916,2024-03-17,,8
+151,Smartwatch,D403,North Bonnieberg,2726.0,73,299,2024-11-28,5.0,9
+129,External Hard Drive,D356,Fraziertown,322.0,45,827,2025-02-02,,14
+463,Iron,D379,North Ashley,99.0,68,951,2024-06-04,4.0,7
+248,Television,D503,West Thomasberg,166.0,53,446,2024-03-30,4.0,7
+400,Electric Kettle,D955,Martinezberg,160.0,88,213,2024-03-21,,9
+367,Smartwatch,D818,North Robinborough,200.0,37,496,2024-09-04,26.0,12
+321,External Hard Drive,D775,Bushside,306.0,31,487,2024-10-05,28.0,3
+431,Projector,D688,West Thomasberg,236.0,50,846,2025-01-15,17.0,7
+267,Gaming Console,D788,East Justin,498.0,13,354,2024-12-08,8.0,8
+323,Iron,D194,Dawsonborough,,38,568,2024-08-08,20.0,7
+716,Gaming Console,D410,Fraziertown,134.0,77,876,2024-12-20,,6
+914,Vacuum Cleaner,D425,Port Christopherton,3532.0,17,700,2024-09-29,30.0,6
+146,Headphones,D703,New Bonnie,338.0,27,472,2024-11-27,,6
+112,Television,D988,Dawsonborough,4456.0,53,201,2025-01-28,3.0,6
+697,Smartwatch,D970,Scottbury,315.0,50,473,2024-04-05,15.0,13
+135,Rice Cooker,D666,North Bonnieberg,298.0,93,940,2024-04-20,2.0,12
+278,Washing Machine,D830,Scottbury,46.0,71,286,2024-12-24,,1
+633,Drone,D760,West Terrancehaven,4826.0,16,278,2024-07-24,14.0,9
+849,Drone,D370,Fraziertown,219.0,11,889,2024-08-02,1.0,9
+108,Drone,D170,Brownchester,451.0,70,995,2024-09-09,29.0,15
+985,External Hard Drive,D143,Carolineview,89.0,10,376,2024-12-08,15.0,6
+825,Monitor,D767,Carolineview,381.0,99,862,2024-12-03,23.0,7
+262,Bluetooth Speaker,D351,Fraziertown,185.0,21,783,2024-12-26,20.0,7
+156,Blender,D217,Martinezberg,,99,472,2024-12-05,20.0,4
+349,Keyboard,D773,Scottbury,136.0,66,469,2024-05-06,1.0,9
+805,Television,D205,Jeffreyfort,307.0,78,310,2024-10-10,24.0,2
+531,Projector,D458,Brownchester,369.0,84,512,2024-09-22,2.0,6
+964,Smartphone,D490,North Robinborough,,19,966,2024-02-29,7.0,9
+902,Rice Cooker,D862,Port Christopherton,327.0,64,828,2024-04-30,28.0,12
+298,Drone,D773,Port Christopherton,68.0,78,412,2025-02-19,15.0,11
+719,Mouse,D697,West Terrancehaven,395.0,27,942,2024-09-20,19.0,6
+760,Tablet,D130,West Terrancehaven,393.0,70,902,2024-07-26,24.0,2
+188,Refrigerator,D841,Dawsonborough,3241.0,51,568,2024-03-23,4.0,20
+895,Refrigerator,D445,West Thomasberg,282.0,18,533,2024-09-15,29.0,10
+797,Drone,D607,West Thomasberg,450.0,100,888,2024-07-20,16.0,25
+244,External Hard Drive,D261,Port Amanda,213.0,12,257,2024-12-21,23.0,13
+225,Projector,D413,Port Christopherton,477.0,24,999,2024-07-22,14.0,13
+830,Fitness Tracker,D868,Carolineview,416.0,37,519,2024-06-01,20.0,4
+713,Projector,D416,Port Amanda,403.0,68,412,2024-12-17,24.0,10
+687,Drone,D894,New Bonnie,156.0,59,493,2024-11-20,30.0,15
+830,Tablet,D432,Carolineview,280.0,83,258,2024-08-07,6.0,10
+476,Refrigerator,D194,Port Amanda,4152.0,99,344,2024-08-18,7.0,5
+849,Television,D378,Bushside,88.0,11,400,2025-02-11,2.0,14
+345,Electric Kettle,D373,Port Sarah,63.0,40,576,2024-09-18,20.0,11
+622,Television,D657,Fraziertown,,68,665,2024-06-08,25.0,1
+321,Iron,D690,Port Sarah,241.0,60,232,2024-10-02,11.0,1
+642,Drone,D882,East Justin,232.0,55,238,2024-02-23,,9
+743,Iron,D540,Port Amanda,,20,331,2024-04-19,21.0,9
+890,Printer,D318,West Thomasberg,466.0,54,901,2024-09-17,7.0,11
+761,Mouse,D358,Dawsonborough,,27,705,2024-10-21,21.0,6
+163,Fitness Tracker,D676,Scottbury,146.0,18,865,2024-12-27,12.0,12
+397,Blender,D491,East Justin,290.0,42,749,2025-02-05,2.0,9
+214,Washing Machine,D762,North Ashley,470.0,76,666,2025-02-12,24.0,7
+307,Vacuum Cleaner,D871,Carolineview,100.0,19,819,2024-08-10,27.0,7
+806,Smartphone,D891,New Bonnie,45.0,19,567,2024-11-13,6.0,13
+824,Air Conditioner,D953,East Justin,145.0,53,580,2024-03-11,4.0,8
+940,Bluetooth Speaker,D637,Dawsonborough,236.0,38,622,2025-02-08,6.0,2
+724,Tablet,D236,East Justin,344.0,61,709,2024-02-24,20.0,1
+158,Bluetooth Speaker,D791,New Bonnie,210.0,48,538,2024-10-31,1.0,13
+208,Projector,D369,East Justin,459.0,37,842,2024-11-16,,12
+624,Washing Machine,D261,North Robinborough,133.0,54,731,2024-07-17,9.0,12
+301,Vacuum Cleaner,D926,Brownchester,482.0,82,381,2024-03-22,29.0,2
+149,Vacuum Cleaner,D430,Bushside,32.0,74,395,2024-12-18,3.0,8
+432,Electric Kettle,D653,Jeffreyfort,5.0,66,882,2024-11-30,26.0,6
+140,Air Conditioner,D968,Dawsonborough,398.0,32,384,2024-02-26,21.0,8
+822,Router,D995,Scottbury,105.0,100,446,2025-01-07,28.0,14
+588,Monitor,D967,North Ashley,369.0,99,634,2024-03-04,19.0,8
+522,Smartphone,D280,Murphyside,444.0,74,200,2024-12-04,12.0,15
+261,Microwave,D755,Martinezberg,107.0,27,656,2024-05-01,3.0,12
+496,Headphones,D646,Bushside,58.0,43,926,2024-04-19,25.0,9
+253,Mouse,D806,North Robinborough,,48,912,2024-11-10,28.0,2
+495,Projector,D926,East Justin,89.0,58,281,2024-11-26,8.0,11
+855,Bluetooth Speaker,D516,East Justin,128.0,23,604,2024-08-15,2.0,3
+881,Fitness Tracker,D207,Port Sarah,314.0,50,934,2025-01-23,,13
+994,Drone,D340,North Robinborough,296.0,34,487,2024-05-12,8.0,6
+898,Gaming Console,D212,Brownchester,,72,728,2024-10-07,19.0,5
+560,Keyboard,D196,Port Sarah,393.0,67,230,2024-08-17,27.0,12
+452,Vacuum Cleaner,D271,North Bonnieberg,67.0,60,994,2024-03-24,,2
+183,Printer,D844,South Timothyfort,434.0,13,367,2024-09-23,17.0,1
+153,Gaming Console,D239,Martinezberg,317.0,39,805,2025-02-16,29.0,7
+220,Smartwatch,D253,Scottbury,219.0,96,977,2024-07-14,5.0,7
+691,Keyboard,D375,Port Sarah,,82,604,2024-04-01,30.0,9
+466,USB Flash Drive,D511,North Ashley,173.0,46,451,2024-12-03,,12
+454,Keyboard,D551,Murphyside,457.0,53,996,2024-11-26,6.0,11
+278,Microwave,D304,South Timothyfort,370.0,11,905,2025-02-18,8.0,11
+445,Keyboard,D983,Martinezberg,,68,697,2024-12-04,8.0,50
+828,Keyboard,D636,New Bonnie,,36,341,2024-12-03,2.0,15
+965,Coffee Maker,D966,North Bonnieberg,325.0,76,407,2024-06-10,15.0,1
+244,Toaster,D565,East Justin,449.0,31,351,2025-02-11,,8
+820,USB Flash Drive,D488,Martinezberg,34.0,80,687,2025-02-07,4.0,1
+934,Camera,D779,New Bonnie,191.0,48,718,2024-03-31,5.0,4
+850,Gaming Console,D319,Port Christopherton,261.0,58,379,2024-04-29,7.0,7
+449,Keyboard,D917,Bushside,3616.0,28,476,2024-07-04,30.0,14
+647,Vacuum Cleaner,D280,South Timothyfort,411.0,59,807,2024-10-02,30.0,2
+942,Projector,D157,South Timothyfort,4487.0,27,229,2024-12-03,7.0,10
+155,Laptop,D933,North Robinborough,286.0,94,980,2024-09-13,,13
+989,Gaming Console,D371,West Terrancehaven,56.0,27,678,2024-04-30,6.0,6
+442,Television,D581,Jeffreyfort,438.0,75,658,2024-06-18,20.0,10
+930,Mouse,D885,Scottbury,1578.0,43,621,2024-10-12,16.0,5
+145,Toaster,D311,Martinezberg,320.0,47,208,2025-01-12,23.0,9
+516,Keyboard,D292,Port Christopherton,40.0,80,877,2024-08-05,28.0,5
+267,Monitor,D781,Bushside,364.0,74,788,2024-05-15,19.0,2
+606,Iron,D335,North Bonnieberg,238.0,73,776,2024-06-12,,3
+847,Gaming Console,D745,North Ashley,253.0,30,441,2024-07-01,4.0,4
+542,Television,D530,South Timothyfort,441.0,35,959,2024-05-18,19.0,1
+825,Printer,D923,East Justin,3236.0,88,285,2024-11-30,21.0,13
+519,Headphones,D335,South Timothyfort,4662.0,95,502,2024-04-02,15.0,6
+918,Gaming Console,D160,New Bonnie,381.0,83,577,2024-12-26,29.0,4
+349,Smartwatch,D248,Bushside,449.0,71,504,2025-02-17,20.0,12
+894,Iron,D471,Martinezberg,9.0,53,207,2024-07-01,5.0,1
+413,Vacuum Cleaner,D413,Fraziertown,133.0,20,519,2024-04-04,10.0,5
+110,Projector,D863,East Justin,432.0,78,927,2025-02-05,18.0,11
+314,Headphones,D447,Carolineview,329.0,29,266,2024-12-05,9.0,1
+771,Washing Machine,D263,East Justin,2635.0,14,548,2024-05-02,30.0,8
+171,Iron,D817,Dawsonborough,184.0,67,970,2024-10-13,,14
+516,Mouse,D382,North Robinborough,5.0,81,747,2024-12-07,16.0,10
+468,Laptop,D817,Carolineview,99.0,96,889,2024-11-22,5.0,2
+542,Television,D233,Scottbury,494.0,29,894,2024-11-12,20.0,11
+602,Refrigerator,D194,Dawsonborough,466.0,44,785,2025-01-23,5.0,9
+382,Smartphone,D747,North Robinborough,423.0,61,216,2024-08-31,22.0,3
+654,Electric Kettle,D930,Murphyside,167.0,92,752,2024-09-22,11.0,11
+956,Refrigerator,D335,North Bonnieberg,13.0,47,283,2024-10-27,4.0,13
+839,Projector,D223,New Bonnie,434.0,80,740,2025-01-29,14.0,4
+382,Microwave,D736,Murphyside,413.0,72,725,2024-07-26,18.0,7
+403,Washing Machine,D876,West Terrancehaven,316.0,26,374,2024-10-23,24.0,13
+442,Tablet,D395,West Thomasberg,3938.0,82,882,2024-05-12,28.0,13
+729,Drone,D925,West Thomasberg,298.0,76,281,2024-09-23,,1
+293,External Hard Drive,D436,Scottbury,256.0,97,983,2024-03-07,13.0,1
+853,Vacuum Cleaner,D994,Dawsonborough,459.0,46,759,2025-01-05,,4
+789,Vacuum Cleaner,D861,Port Sarah,228.0,61,379,2024-04-18,29.0,3
+360,Router,D103,Dawsonborough,27.0,53,582,2024-04-12,21.0,6
+418,Rice Cooker,D670,New Bonnie,101.0,81,272,2024-09-30,18.0,11
+433,Washing Machine,D432,North Robinborough,46.0,91,554,2024-06-27,12.0,11
+811,Washing Machine,D595,North Bonnieberg,383.0,64,715,2025-01-17,21.0,7
+159,Toaster,D799,Brownchester,266.0,67,842,2024-04-23,18.0,4
+786,Microwave,D422,Bushside,252.0,73,654,2024-12-26,25.0,9
+250,Smartphone,D295,Scottbury,17.0,60,247,2025-01-14,30.0,2
+626,Toaster,D465,North Ashley,361.0,34,559,2024-05-19,7.0,10
+376,Rice Cooker,D907,North Bonnieberg,,84,748,2024-04-01,26.0,14
+907,Microwave,D954,East Justin,213.0,66,514,2024-05-28,,6
+949,Smartwatch,D452,Port Christopherton,4732.0,55,297,2024-05-22,5.0,11
+851,Projector,D604,East Justin,1626.0,91,553,2024-09-18,9.0,5
+260,Projector,D425,West Terrancehaven,229.0,39,235,2024-09-22,29.0,11
+102,Television,D769,North Bonnieberg,392.0,82,461,2024-07-02,,1
+795,Tablet,D240,Martinezberg,39.0,36,364,2025-01-20,25.0,12
+453,Television,D549,Scottbury,125.0,82,264,2025-02-07,28.0,13
+823,Projector,D435,Martinezberg,,40,744,2024-04-04,29.0,11
+646,Smartwatch,D872,Dawsonborough,434.0,35,636,2024-04-23,17.0,4
+826,Printer,D918,Jeffreyfort,25.0,85,640,2024-12-14,23.0,6
+194,Camera,D138,Port Sarah,3047.0,39,590,2024-04-05,20.0,15
+633,Tablet,D854,Scottbury,145.0,70,939,2024-10-13,8.0,9
+103,Smartphone,D205,New Bonnie,325.0,69,206,2024-08-10,24.0,4
+476,Headphones,D798,West Thomasberg,126.0,62,588,2025-02-11,26.0,4
+657,External Hard Drive,D102,Port Christopherton,275.0,45,764,2024-03-31,13.0,3
+832,Tablet,D124,North Bonnieberg,451.0,86,502,2024-10-09,28.0,5
+565,Projector,D808,Dawsonborough,172.0,95,375,2025-02-15,19.0,5
+803,Vacuum Cleaner,D597,Dawsonborough,282.0,30,692,2024-09-25,17.0,13
+400,Iron,D686,West Thomasberg,223.0,28,446,2024-03-04,3.0,9
+595,Tablet,D485,West Thomasberg,139.0,45,625,2024-11-13,,7
+798,Smartwatch,D392,West Thomasberg,167.0,60,461,2025-01-25,4.0,15
+382,Headphones,D838,South Timothyfort,303.0,62,452,2024-10-23,25.0,6
+438,USB Flash Drive,D140,Port Amanda,,82,482,2024-05-27,7.0,5
+932,Keyboard,D142,West Terrancehaven,,61,577,2024-04-23,15.0,11
+399,Monitor,D720,South Timothyfort,99.0,49,308,2025-02-19,12.0,9
+473,Camera,D303,South Timothyfort,50.0,45,425,2024-06-19,,4
+791,Smartwatch,D678,South Timothyfort,276.0,79,624,2024-05-26,2.0,2
+827,Iron,D644,Dawsonborough,401.0,40,654,2024-11-25,2.0,6
+730,Microwave,D860,North Robinborough,316.0,82,882,2024-07-04,,8
+989,Laptop,D421,Port Christopherton,82.0,92,674,2024-06-01,1.0,5
+913,Tablet,D872,Murphyside,,76,848,2024-12-30,10.0,13
+286,Projector,D469,West Terrancehaven,,20,826,2025-02-19,6.0,6
+657,Mouse,D604,East Justin,37.0,59,615,2024-04-21,16.0,13
+156,Smartphone,D650,Murphyside,172.0,28,939,2024-05-11,12.0,2
+593,Drone,D103,South Timothyfort,110.0,40,959,2024-07-26,9.0,2
+514,Microwave,D240,North Bonnieberg,304.0,33,757,2024-07-01,19.0,14
+672,Coffee Maker,D290,North Bonnieberg,273.0,68,227,2024-06-22,6.0,3
+181,Television,D525,Port Amanda,393.0,95,207,2024-05-20,20.0,15
+395,Refrigerator,D445,Port Amanda,470.0,52,300,2024-12-29,14.0,6
+687,Router,D716,East Justin,218.0,74,970,2024-06-20,24.0,2
+587,Television,D251,Bushside,401.0,93,271,2024-09-22,26.0,10
+706,Drone,D802,Port Sarah,159.0,16,650,2024-04-17,5.0,2
+693,Projector,D409,New Bonnie,476.0,49,708,2025-01-03,19.0,11
+280,Microwave,D270,South Timothyfort,187.0,98,512,2024-11-26,22.0,3
+533,Printer,D364,North Bonnieberg,477.0,48,977,2024-03-21,7.0,7
+383,Projector,D339,Bushside,181.0,80,922,2024-07-23,2.0,15
+781,Mouse,D566,Scottbury,58.0,27,788,2025-01-02,27.0,2
+245,External Hard Drive,D975,Fraziertown,,47,551,2024-04-01,23.0,7
+584,Refrigerator,D637,Scottbury,309.0,56,996,2024-10-25,24.0,8
+406,Printer,D612,West Thomasberg,131.0,24,389,2024-12-12,23.0,10
+974,Smartwatch,D863,North Robinborough,112.0,51,713,2024-02-22,4.0,6
+551,Router,D812,Port Amanda,477.0,82,801,2024-11-15,4.0,22
+771,Iron,D115,Jeffreyfort,344.0,54,428,2024-02-27,18.0,8
+455,Vacuum Cleaner,D333,Martinezberg,160.0,61,600,2024-09-25,,5
+992,Coffee Maker,D364,Port Sarah,55.0,34,950,2024-09-01,,11
+867,Mouse,D707,East Justin,384.0,71,634,2024-10-14,8.0,14
+789,Keyboard,D333,Bushside,128.0,17,870,2024-05-08,30.0,11
+824,Projector,D932,Brownchester,63.0,80,427,2024-03-16,14.0,9
+713,External Hard Drive,D883,Brownchester,319.0,13,277,2024-05-07,25.0,11
+283,Vacuum Cleaner,D837,Port Christopherton,288.0,48,489,2025-01-19,25.0,7
+968,Smartphone,D152,East Justin,288.0,47,938,2024-10-29,8.0,5
+838,Coffee Maker,D837,Brownchester,238.0,32,767,2024-06-18,23.0,5
+511,Bluetooth Speaker,D269,North Bonnieberg,321.0,66,445,2024-03-30,20.0,12
+930,Microwave,D199,West Terrancehaven,,50,499,2024-08-30,8.0,1
+109,Refrigerator,D911,Port Christopherton,,14,374,2024-03-31,1.0,3
+661,Projector,D808,Port Amanda,4739.0,95,342,2024-07-19,7.0,2
+133,Toaster,D510,Bushside,349.0,14,468,2024-12-15,25.0,9
+988,Camera,D506,West Thomasberg,180.0,14,286,2024-10-27,13.0,3
+237,Coffee Maker,D190,North Ashley,21.0,77,295,2024-03-17,13.0,14
+789,Tablet,D378,Fraziertown,239.0,22,760,2024-08-29,3.0,3
+502,Microwave,D321,Port Christopherton,336.0,16,803,2024-05-19,7.0,7
+924,Blender,D544,North Bonnieberg,43.0,48,766,2024-07-18,30.0,15
+741,Bluetooth Speaker,D712,Bushside,168.0,89,827,2024-07-19,23.0,44
+536,Washing Machine,D426,Fraziertown,152.0,62,316,2024-03-01,1.0,10
+194,Gaming Console,D723,Bushside,,58,220,2024-11-23,8.0,2
+379,External Hard Drive,D747,Carolineview,153.0,31,552,2024-10-31,23.0,13
+845,Camera,D216,South Timothyfort,3557.0,31,739,2024-09-14,27.0,7
+825,Printer,D479,West Thomasberg,115.0,46,344,2024-05-05,5.0,12
+485,Iron,D606,Port Amanda,348.0,66,761,2024-05-18,17.0,4
+273,Printer,D443,North Ashley,475.0,38,801,2024-03-23,3.0,13
+952,Monitor,D509,Dawsonborough,,58,369,2024-08-31,23.0,11
+704,Microwave,D887,South Timothyfort,410.0,10,808,2025-02-01,14.0,15
+509,USB Flash Drive,D558,Port Amanda,444.0,91,574,2024-05-07,10.0,5
+434,Electric Kettle,D694,North Bonnieberg,305.0,98,983,2024-06-23,10.0,2
+893,Toaster,D708,Jeffreyfort,124.0,65,752,2024-07-13,25.0,6
+558,Blender,D886,Port Sarah,154.0,79,723,2024-10-27,12.0,4
+526,Vacuum Cleaner,D669,Jeffreyfort,,65,581,2024-07-12,5.0,2
+435,Headphones,D912,West Terrancehaven,30.0,80,819,2025-01-24,25.0,13
+412,Gaming Console,D524,Port Sarah,22.0,60,834,2024-10-07,,11
+275,Iron,D459,Jeffreyfort,275.0,41,813,2024-10-10,21.0,12
+339,Electric Kettle,D696,Fraziertown,431.0,52,929,2024-04-21,26.0,15
+853,Blender,D737,Murphyside,409.0,66,286,2024-10-24,3.0,10
+271,Electric Kettle,D396,New Bonnie,28.0,83,248,2024-03-14,2.0,23
+248,Drone,D773,Port Sarah,2131.0,54,332,2024-04-17,,13
+438,Laptop,D690,New Bonnie,227.0,86,707,2024-08-19,19.0,15
+195,Rice Cooker,D377,Port Sarah,,11,758,2024-06-26,20.0,13
+569,Toaster,D159,Port Christopherton,345.0,45,611,2025-01-05,8.0,2
+738,Toaster,D163,Fraziertown,,74,695,2024-09-25,5.0,5
+442,Printer,D631,New Bonnie,,84,903,2025-02-20,28.0,9
+997,Camera,D794,New Bonnie,,15,313,2024-03-14,26.0,10
+256,Monitor,D807,Murphyside,195.0,52,379,2025-02-08,21.0,15
+308,Iron,D120,Jeffreyfort,322.0,78,521,2024-09-19,,1
+771,Vacuum Cleaner,D956,New Bonnie,171.0,52,791,2024-09-28,23.0,5
+462,Keyboard,D571,New Bonnie,479.0,61,852,2024-09-21,10.0,11
+347,Coffee Maker,D599,Fraziertown,158.0,60,344,2024-08-05,10.0,1
+146,Keyboard,D373,Scottbury,298.0,82,439,2024-04-18,15.0,9
+614,Mouse,D308,Carolineview,258.0,65,704,2025-01-15,23.0,12
+991,Router,D693,North Robinborough,,91,611,2024-09-01,16.0,4
+369,Iron,D341,North Ashley,466.0,96,903,2024-07-18,18.0,5
+492,Bluetooth Speaker,D124,West Terrancehaven,238.0,15,446,2025-01-25,4.0,29
+991,Rice Cooker,D565,Murphyside,155.0,36,320,2024-10-11,26.0,7
+728,Mouse,D957,North Ashley,493.0,17,486,2024-07-15,9.0,6
+890,Electric Kettle,D628,Port Christopherton,274.0,18,534,2024-07-17,22.0,12
+891,Printer,D322,North Ashley,286.0,72,957,2024-07-14,10.0,6
+217,Tablet,D859,North Ashley,54.0,29,314,2024-10-13,20.0,12
+430,Fitness Tracker,D217,South Timothyfort,409.0,79,877,2024-12-19,24.0,3
+871,Vacuum Cleaner,D282,Port Sarah,411.0,72,601,2025-02-13,10.0,15
+342,Smartphone,D883,West Thomasberg,420.0,57,748,2024-07-11,,3
+369,Smartphone,D996,Fraziertown,403.0,23,613,2024-09-23,10.0,12
+473,Refrigerator,D567,Port Christopherton,,11,941,2024-11-24,23.0,7
+933,Mouse,D460,South Timothyfort,34.0,54,225,2024-08-26,1.0,5
+183,Laptop,D484,Murphyside,145.0,34,401,2024-09-27,16.0,4
+582,Bluetooth Speaker,D433,South Timothyfort,230.0,54,577,2025-01-18,,1
+630,Iron,D643,Port Sarah,442.0,32,441,2024-09-19,18.0,8
+645,Camera,D783,New Bonnie,236.0,49,288,2024-12-08,20.0,2
+944,Tablet,D820,Martinezberg,402.0,56,989,2024-12-25,6.0,5
+258,Router,D959,Fraziertown,130.0,43,487,2024-10-07,15.0,3
+803,Coffee Maker,D349,Martinezberg,481.0,66,934,2024-12-08,18.0,15
+373,Monitor,D160,Port Christopherton,258.0,58,348,2024-08-13,19.0,9
+958,Rice Cooker,D857,North Ashley,433.0,100,745,2024-04-07,4.0,5
+302,Air Conditioner,D570,West Terrancehaven,329.0,82,672,2024-11-29,,9
+869,USB Flash Drive,D663,Port Christopherton,3.0,94,201,2024-11-11,7.0,1
+855,Microwave,D792,Martinezberg,461.0,24,764,2024-09-25,3.0,12
+493,Gaming Console,D526,Scottbury,66.0,20,503,2024-10-04,26.0,11
+252,Monitor,D428,Murphyside,130.0,95,511,2024-09-23,17.0,10
+481,Microwave,D312,Port Sarah,284.0,78,667,2024-08-24,13.0,11
+609,External Hard Drive,D807,Dawsonborough,171.0,84,623,2024-07-18,17.0,1
+902,Gaming Console,D667,Port Sarah,201.0,40,451,2024-06-13,22.0,4
+668,Microwave,D105,New Bonnie,52.0,77,330,2024-10-16,3.0,6
+371,Printer,D456,New Bonnie,306.0,15,673,2024-04-17,25.0,11
+736,Microwave,D932,West Terrancehaven,481.0,85,274,2024-08-31,1.0,4
+634,Camera,D454,West Terrancehaven,437.0,14,204,2024-05-15,16.0,3
+391,Fitness Tracker,D161,North Robinborough,264.0,98,969,2024-06-09,26.0,7
+819,External Hard Drive,D328,New Bonnie,221.0,37,952,2024-11-29,17.0,14
+148,Projector,D121,Port Amanda,132.0,43,880,2024-10-01,22.0,12
+795,Drone,D214,Scottbury,,40,769,2024-04-05,6.0,14
+491,Bluetooth Speaker,D673,North Bonnieberg,444.0,45,547,2024-12-06,20.0,14
+122,Washing Machine,D623,East Justin,230.0,17,399,2024-05-18,11.0,15
+572,Monitor,D342,North Bonnieberg,380.0,60,634,2024-10-03,16.0,12
+660,Refrigerator,D666,Murphyside,3540.0,14,424,2024-10-19,7.0,13
+267,Coffee Maker,D948,New Bonnie,410.0,19,957,2024-04-26,15.0,10
+458,Rice Cooker,D766,West Terrancehaven,375.0,78,511,2024-07-29,3.0,15
+939,Gaming Console,D225,North Robinborough,40.0,72,259,2024-03-10,27.0,6
+377,Smartwatch,D774,North Bonnieberg,386.0,49,966,2025-01-12,24.0,11
+338,Smartwatch,D327,South Timothyfort,262.0,25,830,2024-04-13,4.0,14
+709,Coffee Maker,D352,Carolineview,,28,620,2024-05-24,12.0,7
+622,Projector,D528,East Justin,277.0,84,262,2025-01-24,28.0,13
+987,Blender,D966,Port Amanda,30.0,29,683,2024-11-17,28.0,8
+492,Iron,D559,New Bonnie,371.0,14,631,2024-08-25,6.0,12
+834,Vacuum Cleaner,D748,Fraziertown,169.0,46,552,2024-07-04,2.0,2
+534,Camera,D819,Bushside,344.0,32,269,2024-12-03,25.0,5
+448,Gaming Console,D170,Dawsonborough,289.0,27,472,2024-05-15,,11
+623,Printer,D257,Port Amanda,143.0,51,727,2024-04-04,8.0,1
+317,Toaster,D805,West Thomasberg,422.0,36,591,2024-08-02,3.0,13
+466,Vacuum Cleaner,D923,North Robinborough,24.0,76,255,2024-12-28,26.0,13
+501,Laptop,D584,Jeffreyfort,453.0,55,289,2024-08-17,21.0,9
+481,Blender,D521,Fraziertown,318.0,39,684,2024-03-08,15.0,50
+763,Bluetooth Speaker,D495,Dawsonborough,225.0,64,862,2025-02-03,8.0,5
+988,Iron,D328,Carolineview,236.0,100,628,2024-05-21,16.0,6
+526,Smartphone,D100,Bushside,126.0,82,734,2025-02-03,7.0,12
+602,Keyboard,D781,North Ashley,163.0,96,932,2025-02-01,,14
+212,Printer,D937,South Timothyfort,453.0,46,962,2024-03-31,,5
+889,Electric Kettle,D875,West Terrancehaven,324.0,84,523,2024-06-28,6.0,15
+626,Projector,D762,North Robinborough,374.0,67,419,2024-05-30,,2
+932,Monitor,D807,Jeffreyfort,83.0,63,831,2024-09-16,16.0,12
+648,Iron,D534,Port Christopherton,217.0,41,455,2024-04-05,4.0,20
+570,USB Flash Drive,D860,Martinezberg,364.0,22,255,2024-11-07,25.0,12
+366,Monitor,D452,West Thomasberg,248.0,100,763,2024-12-24,1.0,9
+471,Projector,D739,West Thomasberg,128.0,31,919,2024-04-20,8.0,12
+286,Smartwatch,D863,New Bonnie,320.0,66,231,2024-02-28,25.0,6
+422,Television,D908,North Bonnieberg,41.0,38,210,2024-04-10,,9
+204,Smartwatch,D584,New Bonnie,246.0,86,721,2024-06-25,18.0,7
+434,Microwave,D664,Murphyside,15.0,75,222,2024-09-04,16.0,8
+120,Microwave,D248,Scottbury,330.0,68,337,2024-05-03,15.0,4
+305,Fitness Tracker,D654,Martinezberg,464.0,70,953,2024-11-06,7.0,4
+514,Toaster,D759,Bushside,236.0,75,599,2024-11-27,7.0,2
+454,Camera,D721,North Robinborough,2672.0,50,613,2024-05-12,16.0,14
+261,Router,D101,North Robinborough,311.0,15,999,2025-02-11,3.0,12
+925,Toaster,D796,Jeffreyfort,27.0,15,850,2024-03-10,19.0,14
+663,External Hard Drive,D136,North Robinborough,286.0,31,776,2024-08-26,28.0,7
+665,Headphones,D740,Murphyside,,47,893,2025-02-03,21.0,6
+921,Router,D948,Jeffreyfort,2196.0,28,864,2025-01-22,26.0,7
+411,Keyboard,D188,Port Amanda,386.0,41,869,2024-12-10,20.0,1
+208,Drone,D183,South Timothyfort,75.0,33,493,2024-09-22,4.0,3
+215,External Hard Drive,D585,Scottbury,221.0,32,626,2024-03-26,6.0,5
+765,Smartphone,D167,Martinezberg,,84,780,2024-03-02,21.0,38
+754,Electric Kettle,D489,Murphyside,127.0,45,924,2024-12-01,23.0,13
+495,Smartphone,D964,Port Amanda,49.0,49,550,2025-02-12,8.0,13
+615,Rice Cooker,D727,North Bonnieberg,477.0,27,926,2024-07-24,5.0,2
+955,Projector,D428,New Bonnie,105.0,55,613,2024-12-20,19.0,32
+794,Projector,D584,Jeffreyfort,377.0,94,761,2024-07-14,1.0,5
+628,Smartwatch,D287,New Bonnie,408.0,14,221,2024-06-15,16.0,1
+661,Laptop,D696,Scottbury,365.0,17,946,2025-02-05,,13
+398,Fitness Tracker,D616,Scottbury,356.0,51,203,2024-09-20,29.0,1
+287,Toaster,D589,Port Christopherton,37.0,87,378,2024-04-20,17.0,32
+288,Bluetooth Speaker,D580,Scottbury,155.0,18,378,2024-11-15,10.0,11
+714,Smartphone,D128,North Ashley,500.0,14,995,2024-04-08,30.0,11
+743,Monitor,D445,North Robinborough,3889.0,37,467,2024-12-15,30.0,37
+343,Tablet,D348,Murphyside,3124.0,86,433,2024-06-09,20.0,43
+668,Smartphone,D490,Brownchester,434.0,53,572,2024-09-02,1.0,6
+406,Drone,D523,Port Sarah,161.0,93,309,2025-01-23,10.0,6
+998,Iron,D586,South Timothyfort,420.0,70,697,2025-02-11,13.0,31
+600,Gaming Console,D497,North Ashley,481.0,98,257,2024-12-31,,6
+272,Laptop,D651,West Terrancehaven,387.0,99,404,2025-02-04,25.0,24
+755,Iron,D235,Port Sarah,459.0,83,841,2024-07-18,4.0,7
+298,Smartphone,D116,Port Amanda,469.0,63,466,2024-04-25,,2
+142,Monitor,D129,West Thomasberg,,67,546,2024-11-29,23.0,9
+288,Drone,D197,Dawsonborough,116.0,88,270,2024-05-15,22.0,9
+896,Tablet,D703,North Ashley,327.0,70,905,2024-05-09,27.0,11
+182,Electric Kettle,D318,Fraziertown,227.0,13,919,2024-09-30,30.0,12
+698,USB Flash Drive,D845,Port Christopherton,195.0,33,404,2024-04-26,3.0,6
+804,Laptop,D183,East Justin,27.0,82,328,2024-12-14,17.0,1
+784,Camera,D313,West Terrancehaven,375.0,23,755,2025-02-02,1.0,14
+337,Projector,D294,Dawsonborough,377.0,91,430,2024-09-20,16.0,3
+434,USB Flash Drive,D116,Dawsonborough,,49,632,2024-03-01,12.0,8
+937,External Hard Drive,D308,Port Sarah,107.0,88,270,2024-06-11,24.0,7
+264,Smartphone,D209,Fraziertown,123.0,32,606,2025-01-27,28.0,9
+215,Monitor,D101,West Terrancehaven,289.0,83,907,2025-01-03,6.0,8
+954,Monitor,D240,Port Sarah,432.0,89,542,2025-01-01,24.0,11
+659,External Hard Drive,D960,Port Sarah,410.0,10,824,2024-12-29,26.0,33
+153,Electric Kettle,D341,Carolineview,111.0,76,348,2024-11-25,6.0,1
+692,Refrigerator,D403,North Ashley,466.0,98,259,2024-10-30,29.0,4
+741,Electric Kettle,D848,New Bonnie,415.0,98,231,2025-01-01,24.0,15
+133,Camera,D750,West Thomasberg,176.0,57,902,2024-07-11,1.0,7
+373,Headphones,D443,Port Sarah,215.0,48,897,2024-03-30,23.0,11
+432,Printer,D234,Jeffreyfort,,22,247,2024-03-14,12.0,13
+118,Electric Kettle,D518,Murphyside,469.0,73,264,2024-04-13,19.0,2
+231,Washing Machine,D769,Fraziertown,345.0,73,667,2025-01-07,29.0,7
+516,Laptop,D496,Dawsonborough,41.0,69,718,2024-06-17,10.0,6
+226,Vacuum Cleaner,D228,Carolineview,240.0,81,582,2024-11-20,25.0,11
+676,Headphones,D339,Bushside,,34,922,2024-07-30,,6
+768,Air Conditioner,D708,West Terrancehaven,452.0,37,410,2024-03-03,,15
+406,Camera,D255,Murphyside,371.0,40,337,2024-08-30,29.0,3
+663,Tablet,D562,South Timothyfort,353.0,62,725,2025-01-10,25.0,2
+323,Camera,D995,South Timothyfort,208.0,72,388,2024-08-21,,14
+851,Refrigerator,D184,Fraziertown,466.0,25,582,2024-04-21,30.0,2
+929,Blender,D191,Port Sarah,313.0,61,965,2025-01-28,1.0,8
+576,Laptop,D522,Port Amanda,,67,752,2024-11-30,10.0,1
+208,Electric Kettle,D108,Dawsonborough,95.0,99,727,2025-01-07,18.0,9
+522,Rice Cooker,D918,Port Christopherton,184.0,46,552,2024-10-19,7.0,10
+114,Fitness Tracker,D394,Murphyside,50.0,45,906,2024-07-01,27.0,1
+976,Laptop,D273,Port Christopherton,218.0,10,666,2024-02-22,8.0,12
+728,Television,D249,West Thomasberg,48.0,100,274,2024-05-18,9.0,7
+592,Fitness Tracker,D317,West Terrancehaven,385.0,65,903,2024-04-12,6.0,4
+266,Rice Cooker,D332,North Bonnieberg,2246.0,72,715,2024-11-30,27.0,15
+962,Drone,D736,Jeffreyfort,145.0,61,246,2024-06-26,2.0,3
+311,Monitor,D236,West Terrancehaven,308.0,96,505,2024-09-30,19.0,6
+698,USB Flash Drive,D523,Jeffreyfort,207.0,85,914,2024-12-27,24.0,4
+841,Gaming Console,D637,North Robinborough,240.0,19,622,2024-02-28,,15
+967,Projector,D755,Brownchester,192.0,51,541,2024-09-27,22.0,10
+299,Iron,D379,North Bonnieberg,3180.0,40,956,2024-07-15,25.0,3
+662,Fitness Tracker,D224,Port Amanda,42.0,88,885,2024-07-16,8.0,4
+743,Refrigerator,D218,Carolineview,,25,269,2025-02-18,8.0,15
+908,Refrigerator,D224,Murphyside,8.0,39,517,2024-10-31,1.0,12
+133,Gaming Console,D897,Port Sarah,211.0,92,987,2025-01-14,22.0,12
+812,Drone,D220,Dawsonborough,44.0,81,756,2024-05-05,6.0,14
+444,Iron,D889,Carolineview,197.0,30,965,2024-08-17,27.0,6
+665,Drone,D525,Murphyside,311.0,82,966,2024-12-24,8.0,10
+651,Microwave,D636,West Terrancehaven,338.0,20,673,2024-05-09,19.0,14
+916,Laptop,D618,Port Sarah,140.0,54,201,2024-10-23,21.0,12
+149,Drone,D666,Martinezberg,,38,709,2024-06-13,21.0,15
+697,Smartphone,D696,South Timothyfort,289.0,84,835,2024-07-01,23.0,3
+943,Washing Machine,D979,Bushside,428.0,18,225,2024-03-20,23.0,6
+759,Gaming Console,D316,Bushside,271.0,71,618,2024-09-20,9.0,2
+431,Television,D923,Port Amanda,489.0,52,624,2024-08-21,11.0,5
+174,External Hard Drive,D318,East Justin,373.0,44,562,2024-06-06,9.0,12
+401,Refrigerator,D195,East Justin,484.0,66,686,2024-09-15,4.0,11
+577,Keyboard,D831,North Robinborough,221.0,73,962,2024-06-27,6.0,7
+252,Microwave,D212,East Justin,353.0,18,306,2024-02-22,29.0,4
+122,Electric Kettle,D985,Port Amanda,245.0,98,549,2024-04-25,8.0,41
+970,Microwave,D576,North Robinborough,353.0,42,491,2024-04-29,5.0,5
+387,Router,D525,Fraziertown,251.0,32,905,2024-10-29,17.0,7
+883,Television,D946,New Bonnie,471.0,28,468,2024-12-31,6.0,5
+769,Gaming Console,D250,Port Sarah,202.0,99,337,2025-02-07,7.0,36
+979,Router,D952,Fraziertown,486.0,82,280,2025-01-15,29.0,10
+637,Washing Machine,D405,North Robinborough,464.0,13,981,2024-08-27,9.0,2
+696,Washing Machine,D454,South Timothyfort,229.0,80,570,2025-02-20,15.0,3
+928,Tablet,D799,North Bonnieberg,289.0,98,537,2024-06-15,30.0,50
+894,Toaster,D344,Bushside,449.0,14,642,2024-03-09,9.0,1
+909,Washing Machine,D753,West Terrancehaven,205.0,54,998,2024-06-21,1.0,8
+964,Projector,D906,Carolineview,332.0,60,959,2025-01-09,9.0,9
+130,Bluetooth Speaker,D519,Scottbury,377.0,99,769,2024-07-03,20.0,3
+151,Monitor,D706,West Thomasberg,48.0,76,866,2025-01-27,20.0,8
+410,Toaster,D800,Murphyside,428.0,86,344,2024-07-04,4.0,6
+143,Blender,D555,Fraziertown,468.0,81,704,2024-12-15,16.0,7
+808,Washing Machine,D961,Brownchester,25.0,81,511,2024-07-19,12.0,2
+907,Fitness Tracker,D362,West Thomasberg,226.0,89,258,2024-12-07,24.0,8
+128,Rice Cooker,D326,North Robinborough,439.0,49,834,2024-08-10,9.0,9
+514,Laptop,D816,Port Christopherton,243.0,67,534,2024-06-06,13.0,12
+504,Projector,D116,Jeffreyfort,3667.0,100,788,2025-01-13,28.0,13
+845,Air Conditioner,D971,North Robinborough,356.0,65,705,2024-07-27,5.0,5
+906,Toaster,D583,Scottbury,159.0,44,303,2024-03-27,21.0,2
+619,Tablet,D969,Port Amanda,,31,570,2024-07-23,8.0,10
+127,Monitor,D646,South Timothyfort,384.0,10,947,2024-10-01,26.0,14
+108,Drone,D592,Fraziertown,2331.0,82,405,2025-02-21,11.0,4
+518,Coffee Maker,D342,Martinezberg,2595.0,17,768,2024-03-28,14.0,11
+981,Monitor,D233,North Robinborough,92.0,90,210,2024-03-05,25.0,4
+370,Bluetooth Speaker,D821,Dawsonborough,289.0,57,596,2024-03-28,17.0,9
+704,Router,D716,South Timothyfort,269.0,84,893,2024-09-24,11.0,3
+520,Air Conditioner,D260,Port Christopherton,,37,488,2024-06-23,,12
+469,Microwave,D109,Bushside,8.0,30,873,2024-07-05,30.0,10
+561,Gaming Console,D702,Dawsonborough,381.0,77,863,2024-10-17,30.0,12
+657,Mouse,D760,Port Amanda,,23,869,2024-11-01,24.0,10
+840,Printer,D560,Jeffreyfort,,82,771,2024-03-03,25.0,8
+809,Refrigerator,D852,Dawsonborough,325.0,88,841,2025-01-04,26.0,5
+557,Iron,D886,Port Sarah,330.0,91,748,2025-01-17,20.0,1
+290,Washing Machine,D987,North Bonnieberg,1.0,47,449,2024-03-09,13.0,26
+554,Bluetooth Speaker,D308,North Bonnieberg,,59,437,2024-04-25,30.0,44
+298,Headphones,D495,Martinezberg,292.0,87,388,2025-02-09,18.0,4
+559,Microwave,D321,Brownchester,466.0,25,601,2024-11-30,7.0,6
+962,Laptop,D699,Port Sarah,203.0,77,441,2025-01-13,24.0,8
+489,Camera,D769,Brownchester,235.0,44,785,2025-02-10,,7
+857,Mouse,D853,Port Sarah,443.0,65,710,2024-04-27,19.0,1
+669,Air Conditioner,D186,South Timothyfort,162.0,35,998,2024-07-07,26.0,14
+710,Refrigerator,D235,New Bonnie,308.0,70,369,2024-07-25,1.0,2
+910,Smartphone,D599,South Timothyfort,85.0,67,868,2024-03-22,14.0,4
+837,Projector,D483,Martinezberg,,55,292,2024-07-15,21.0,9
+602,Rice Cooker,D862,Scottbury,64.0,94,377,2024-03-08,26.0,9
+124,Bluetooth Speaker,D227,West Terrancehaven,60.0,30,891,2024-03-02,,3
+561,Mouse,D237,Dawsonborough,,53,403,2024-08-27,25.0,13
+408,Mouse,D443,Scottbury,305.0,58,324,2024-11-02,2.0,6
+488,Electric Kettle,D731,Murphyside,88.0,17,812,2025-01-09,27.0,6
+278,Drone,D942,East Justin,3098.0,34,446,2024-07-22,4.0,13
+707,USB Flash Drive,D745,Dawsonborough,444.0,74,966,2024-03-13,9.0,10
+151,External Hard Drive,D909,Port Amanda,239.0,61,881,2025-02-05,26.0,9
+347,Bluetooth Speaker,D697,South Timothyfort,377.0,78,491,2024-02-26,4.0,3
+368,Television,D184,Fraziertown,288.0,30,223,2024-07-11,28.0,8
+212,Router,D655,Fraziertown,321.0,16,754,2025-01-13,17.0,14
+793,Printer,D723,West Terrancehaven,213.0,10,821,2024-11-29,24.0,4
+152,Camera,D402,West Terrancehaven,175.0,29,888,2024-09-17,27.0,4
+853,Toaster,D888,South Timothyfort,386.0,87,632,2024-12-05,18.0,1
+787,Smartphone,D571,Port Christopherton,61.0,54,343,2024-07-27,30.0,5
+754,Mouse,D249,Dawsonborough,30.0,37,301,2024-08-21,19.0,4
+595,Router,D818,North Ashley,,30,330,2025-02-12,12.0,6
+593,Blender,D256,Jeffreyfort,286.0,49,961,2025-02-02,21.0,7
+759,Washing Machine,D552,Brownchester,137.0,72,938,2024-05-16,29.0,9
+135,Smartphone,D975,Brownchester,112.0,56,602,2024-10-08,18.0,27
+435,Rice Cooker,D852,North Ashley,119.0,36,681,2024-10-09,11.0,14
+875,Mouse,D310,East Justin,413.0,70,257,2024-08-31,10.0,10
+473,Air Conditioner,D393,Murphyside,376.0,36,977,2025-01-06,30.0,8
+820,Toaster,D241,Martinezberg,478.0,14,762,2024-10-10,1.0,2
+439,Blender,D499,Carolineview,244.0,39,336,2025-02-04,6.0,15
+809,External Hard Drive,D587,West Thomasberg,271.0,11,776,2024-11-11,14.0,8
+486,Router,D729,East Justin,1679.0,67,281,2024-04-17,22.0,9
+996,Smartwatch,D590,Brownchester,415.0,80,423,2024-12-15,16.0,6
+314,Electric Kettle,D713,North Bonnieberg,141.0,26,974,2024-07-17,4.0,5
+386,Rice Cooker,D181,Port Amanda,1341.0,86,915,2025-02-18,5.0,1
+113,Fitness Tracker,D898,Martinezberg,158.0,47,726,2024-11-19,12.0,7
+397,Headphones,D217,North Ashley,219.0,88,341,2024-08-30,1.0,13
+253,External Hard Drive,D421,Fraziertown,54.0,47,558,2024-04-25,16.0,4
+765,Electric Kettle,D827,West Terrancehaven,423.0,100,809,2024-07-25,6.0,10
+932,Projector,D648,Fraziertown,,22,382,2024-10-24,12.0,2
+154,Air Conditioner,D230,Martinezberg,252.0,90,373,2024-09-25,19.0,3
+982,Blender,D329,South Timothyfort,366.0,23,729,2024-06-08,,13
+606,External Hard Drive,D958,Murphyside,485.0,11,310,2024-09-22,27.0,48
+258,Router,D637,North Ashley,4348.0,94,884,2024-03-25,,10
+959,USB Flash Drive,D302,Port Amanda,252.0,67,499,2025-02-18,2.0,3
+207,Tablet,D577,Jeffreyfort,349.0,60,319,2024-05-08,7.0,13
+458,Rice Cooker,D577,West Thomasberg,128.0,48,912,2024-05-30,19.0,2
+460,Smartwatch,D519,Jeffreyfort,223.0,86,614,2024-06-24,8.0,2
+361,Coffee Maker,D636,Bushside,,16,413,2024-12-28,29.0,1
+846,Microwave,D112,Murphyside,245.0,60,268,2024-07-06,25.0,3
+630,Washing Machine,D988,Brownchester,490.0,19,866,2024-06-29,8.0,14
+461,External Hard Drive,D746,West Terrancehaven,106.0,92,794,2024-09-07,1.0,8
+429,Electric Kettle,D823,Brownchester,152.0,36,511,2025-02-16,26.0,15
+212,Air Conditioner,D803,North Bonnieberg,84.0,36,229,2024-07-01,15.0,13
+755,Smartwatch,D994,East Justin,389.0,63,950,2024-09-02,2.0,2
+623,Mouse,D353,West Thomasberg,90.0,67,781,2024-06-01,17.0,4
+887,Gaming Console,D170,New Bonnie,144.0,28,420,2024-10-21,15.0,13
+869,Microwave,D326,Scottbury,272.0,50,359,2025-01-21,9.0,1
+992,Coffee Maker,D543,Jeffreyfort,,34,715,2024-05-06,8.0,15
+925,Gaming Console,D921,Jeffreyfort,178.0,31,576,2024-10-20,15.0,12
+546,Iron,D568,North Robinborough,387.0,69,744,2024-07-11,9.0,4
+277,Toaster,D546,Murphyside,1109.0,41,794,2025-01-28,9.0,10
+364,Coffee Maker,D793,North Robinborough,299.0,55,327,2025-01-27,3.0,9
+689,Headphones,D531,North Robinborough,127.0,74,834,2024-05-18,,1
+240,Bluetooth Speaker,D602,North Robinborough,20.0,23,837,2024-07-03,21.0,9
+443,Washing Machine,D694,Martinezberg,166.0,21,602,2024-04-11,11.0,9
+483,Fitness Tracker,D374,North Robinborough,363.0,75,373,2024-08-06,3.0,13
+564,Keyboard,D916,Bushside,355.0,41,810,2024-08-24,7.0,14
+455,Keyboard,D744,Jeffreyfort,185.0,93,644,2025-01-07,14.0,1
+675,Smartphone,D223,Port Amanda,328.0,20,405,2024-12-24,12.0,1
+487,Washing Machine,D949,Murphyside,318.0,31,915,2024-08-27,30.0,3
+784,Iron,D488,Port Amanda,47.0,94,585,2024-11-14,26.0,5
+950,Toaster,D936,Fraziertown,264.0,40,722,2025-01-14,12.0,3
+915,Bluetooth Speaker,D755,West Thomasberg,3598.0,16,426,2024-12-24,24.0,13
+189,Smartwatch,D444,Jeffreyfort,270.0,98,310,2024-12-11,9.0,5
+993,Vacuum Cleaner,D283,Carolineview,473.0,43,490,2024-12-09,5.0,5
+126,Electric Kettle,D559,New Bonnie,55.0,87,591,2024-03-10,12.0,7
+314,Refrigerator,D848,West Terrancehaven,340.0,61,595,2024-07-24,6.0,9
+129,Iron,D641,Port Amanda,4582.0,96,990,2024-02-26,2.0,13
+527,Router,D987,Carolineview,357.0,72,551,2024-04-28,22.0,5
+822,Smartwatch,D401,East Justin,166.0,80,809,2024-11-15,3.0,2
+171,Vacuum Cleaner,D507,Dawsonborough,,90,560,2024-06-04,15.0,12
+669,Rice Cooker,D108,Brownchester,80.0,98,974,2024-03-29,4.0,10
+453,Tablet,D130,North Bonnieberg,292.0,31,394,2024-06-13,16.0,8
+912,USB Flash Drive,D567,North Ashley,433.0,37,494,2024-04-05,1.0,4
+928,Camera,D662,Scottbury,7.0,84,869,2024-10-13,20.0,5
+217,Washing Machine,D726,Fraziertown,278.0,37,842,2024-06-30,,2
+723,Monitor,D137,New Bonnie,161.0,82,252,2024-06-23,21.0,1
+627,Bluetooth Speaker,D516,East Justin,,63,357,2024-06-07,21.0,5
+788,Blender,D237,Martinezberg,124.0,34,924,2024-12-18,9.0,6
+800,Mouse,D468,Scottbury,199.0,11,911,2024-08-14,25.0,6
+310,Keyboard,D641,North Robinborough,404.0,50,377,2024-06-03,28.0,13
+812,Drone,D480,North Robinborough,146.0,87,965,2024-09-13,,5
+417,Refrigerator,D779,Jeffreyfort,,71,971,2025-01-15,,4
+113,External Hard Drive,D588,Murphyside,32.0,54,439,2024-09-29,20.0,5
+623,Projector,D548,Dawsonborough,2391.0,23,644,2024-11-19,20.0,15
+840,Bluetooth Speaker,D789,West Terrancehaven,485.0,98,982,2024-10-14,27.0,2
+457,Laptop,D315,Martinezberg,,94,761,2024-07-16,28.0,14
+724,External Hard Drive,D898,Martinezberg,169.0,85,504,2024-12-12,25.0,23
+352,Washing Machine,D345,West Terrancehaven,433.0,95,271,2024-09-06,8.0,14
+610,Bluetooth Speaker,D625,East Justin,66.0,32,906,2024-10-04,4.0,9
+258,Headphones,D745,Port Amanda,187.0,62,622,2024-08-12,23.0,8
+970,Washing Machine,D829,Carolineview,239.0,44,866,2024-06-27,2.0,11
+825,Smartwatch,D748,Carolineview,254.0,20,426,2024-03-18,13.0,14
+307,Coffee Maker,D235,North Ashley,130.0,35,963,2024-07-10,23.0,11
+656,Camera,D364,North Robinborough,92.0,84,263,2024-09-16,13.0,6
+435,Television,D879,Scottbury,182.0,50,959,2024-09-24,30.0,5
+475,Air Conditioner,D371,North Robinborough,249.0,95,288,2024-05-23,26.0,9
+218,USB Flash Drive,D398,East Justin,160.0,52,532,2024-03-24,28.0,1
+387,Air Conditioner,D695,Fraziertown,89.0,57,711,2025-01-06,23.0,3
+991,Refrigerator,D864,Jeffreyfort,450.0,49,953,2024-03-12,,4
+325,Gaming Console,D278,North Robinborough,337.0,85,458,2024-06-13,20.0,14
+379,Television,D792,Scottbury,149.0,96,364,2024-04-12,19.0,6
+909,Drone,D745,West Thomasberg,208.0,81,388,2024-10-22,10.0,7
+241,Router,D927,South Timothyfort,153.0,94,531,2024-07-14,24.0,2
+109,Smartphone,D228,Port Amanda,191.0,56,879,2025-01-17,23.0,13
+640,Headphones,D550,Brownchester,150.0,55,786,2024-08-27,6.0,5
+290,Drone,D322,North Robinborough,,43,873,2024-05-28,27.0,1
+310,Refrigerator,D819,Bushside,379.0,13,511,2024-11-21,,13
+987,Air Conditioner,D839,West Terrancehaven,18.0,18,800,2024-06-28,6.0,12
+222,Television,D125,Fraziertown,,35,589,2024-08-06,9.0,1
+996,Bluetooth Speaker,D956,Bushside,104.0,10,654,2024-05-08,11.0,2
+117,Toaster,D642,West Terrancehaven,,64,846,2025-01-30,26.0,14
+638,Television,D182,Jeffreyfort,34.0,43,690,2025-02-17,6.0,10
+767,Smartwatch,D646,Carolineview,476.0,42,603,2024-12-13,24.0,9
+541,Air Conditioner,D854,Scottbury,,61,510,2024-04-13,28.0,14
+801,Toaster,D164,Port Sarah,,32,702,2024-11-10,28.0,15
+805,Washing Machine,D740,North Bonnieberg,450.0,28,656,2024-12-05,4.0,3
+467,Headphones,D408,North Robinborough,4812.0,57,439,2024-08-24,17.0,9
+645,Air Conditioner,D924,North Ashley,355.0,57,786,2024-11-13,23.0,7
+361,Smartwatch,D943,Murphyside,415.0,80,428,2024-05-22,4.0,24
+748,Iron,D146,Carolineview,152.0,47,227,2024-04-17,13.0,15
+603,Microwave,D610,Bushside,,75,335,2024-11-12,12.0,14
+797,Coffee Maker,D978,Scottbury,127.0,12,532,2024-08-04,22.0,4
+326,Router,D438,Carolineview,24.0,37,674,2024-04-07,17.0,14
+868,USB Flash Drive,D439,Port Amanda,426.0,89,245,2024-12-10,22.0,2
+674,Blender,D277,Dawsonborough,480.0,20,555,2024-12-24,12.0,9
+254,Smartphone,D979,Port Christopherton,,44,853,2024-09-02,,10
+973,Iron,D978,North Ashley,184.0,27,766,2024-09-12,9.0,5
+810,Monitor,D499,Carolineview,104.0,45,600,2025-01-07,1.0,2
+919,Microwave,D407,Carolineview,64.0,85,268,2024-11-11,15.0,13
+876,Toaster,D141,Port Amanda,58.0,95,895,2024-06-20,30.0,5
+590,Tablet,D253,Brownchester,384.0,80,537,2024-09-04,24.0,11
+211,Router,D436,Port Amanda,159.0,70,446,2024-07-26,28.0,13
+196,Television,D302,South Timothyfort,367.0,68,565,2024-08-06,21.0,13
+422,Smartwatch,D445,Jeffreyfort,497.0,13,512,2024-10-12,28.0,3
+571,Fitness Tracker,D294,South Timothyfort,343.0,80,421,2024-05-14,11.0,12
+302,Projector,D624,East Justin,288.0,21,430,2024-07-23,21.0,11
+915,Drone,D605,Fraziertown,3.0,55,399,2024-10-20,16.0,14
+246,Microwave,D225,North Bonnieberg,,14,809,2024-04-22,24.0,7
+155,Toaster,D691,Dawsonborough,,47,840,2024-05-29,28.0,6
+211,Keyboard,D156,Fraziertown,1426.0,61,651,2024-05-22,27.0,10
+111,Toaster,D712,Fraziertown,411.0,99,363,2024-06-23,1.0,6
+586,Iron,D547,Dawsonborough,,87,764,2024-08-09,16.0,9
+964,Vacuum Cleaner,D744,New Bonnie,147.0,35,972,2024-04-16,,10
+191,Microwave,D633,Port Christopherton,,64,769,2024-06-02,22.0,12
+939,Headphones,D752,West Thomasberg,3497.0,45,411,2025-01-03,5.0,11
+643,Iron,D956,Brownchester,,97,817,2025-02-10,28.0,15
+615,Printer,D791,Jeffreyfort,6.0,30,289,2024-11-19,24.0,6
+923,Refrigerator,D298,South Timothyfort,305.0,22,587,2024-04-01,20.0,43
+763,External Hard Drive,D441,North Robinborough,15.0,79,520,2024-06-03,2.0,3
+906,Monitor,D771,North Robinborough,236.0,74,544,2025-01-24,,9
+561,Drone,D306,Murphyside,343.0,93,586,2024-10-14,,10
+999,Iron,D832,North Ashley,6.0,27,383,2024-05-13,25.0,10
+220,Monitor,D550,North Bonnieberg,,48,401,2024-04-10,,2
+191,Keyboard,D404,Brownchester,481.0,95,765,2024-07-06,,4
+171,Projector,D948,South Timothyfort,216.0,82,793,2024-11-18,6.0,7
+736,Projector,D231,North Bonnieberg,272.0,93,795,2024-08-21,14.0,1
+999,Laptop,D178,Jeffreyfort,1079.0,72,200,2024-10-31,28.0,1
+209,Headphones,D752,West Thomasberg,40.0,57,378,2024-03-12,,5
+150,Refrigerator,D717,East Justin,98.0,78,494,2024-04-26,28.0,8
+820,Monitor,D636,North Robinborough,230.0,68,955,2024-03-29,22.0,13
+310,Smartphone,D783,Scottbury,455.0,48,609,2024-12-11,26.0,11
+971,Vacuum Cleaner,D385,New Bonnie,296.0,67,810,2024-03-07,16.0,14
+411,Iron,D144,West Thomasberg,192.0,27,262,2024-10-24,5.0,10
+578,Camera,D536,Scottbury,14.0,87,995,2024-11-26,7.0,12
+505,Rice Cooker,D719,East Justin,229.0,30,558,2024-06-19,25.0,4
+939,Coffee Maker,D432,East Justin,400.0,40,932,2024-12-29,20.0,8
+164,Microwave,D566,North Bonnieberg,240.0,67,964,2024-12-12,24.0,5
+247,Gaming Console,D698,Fraziertown,440.0,54,383,2024-11-16,4.0,4
+225,Monitor,D876,Carolineview,50.0,10,510,2025-01-09,12.0,7
+477,Vacuum Cleaner,D164,North Robinborough,272.0,20,395,2025-01-25,6.0,15
+539,Laptop,D718,Murphyside,,93,549,2024-10-21,15.0,8
+721,Fitness Tracker,D914,North Bonnieberg,360.0,87,526,2024-12-20,10.0,9
+323,Iron,D557,West Thomasberg,169.0,16,565,2024-03-16,22.0,6
+834,Rice Cooker,D134,Carolineview,101.0,63,949,2025-01-16,7.0,3
+587,Blender,D756,Bushside,324.0,91,949,2024-09-12,27.0,15
+347,External Hard Drive,D492,Carolineview,,59,761,2024-08-11,10.0,3
+161,Router,D256,East Justin,418.0,51,499,2024-06-15,9.0,3
+622,Bluetooth Speaker,D185,North Robinborough,1104.0,33,511,2024-10-18,12.0,15
+821,External Hard Drive,D287,Port Amanda,279.0,86,867,2024-09-06,18.0,13
+739,USB Flash Drive,D166,Port Amanda,196.0,79,481,2024-12-04,,14
+638,Bluetooth Speaker,D945,Martinezberg,485.0,71,482,2024-12-20,8.0,8
+883,USB Flash Drive,D991,Fraziertown,162.0,50,800,2024-04-10,21.0,1
+462,Gaming Console,D141,Martinezberg,134.0,18,694,2024-07-16,21.0,10
+794,Drone,D164,Port Christopherton,221.0,72,660,2025-02-20,20.0,7
+533,Television,D243,North Ashley,230.0,87,290,2024-04-08,13.0,10
+346,Bluetooth Speaker,D225,Fraziertown,4786.0,49,810,2024-06-20,23.0,5
+850,Iron,D342,West Terrancehaven,349.0,17,213,2024-12-01,1.0,5
+115,Gaming Console,D757,Port Christopherton,99.0,31,256,2024-04-01,1.0,4
+175,Laptop,D553,Carolineview,211.0,46,477,2024-06-11,7.0,8
+325,Electric Kettle,D632,West Terrancehaven,284.0,90,352,2024-04-03,29.0,3
